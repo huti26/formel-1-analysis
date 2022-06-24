@@ -36,6 +36,7 @@
 - Berücksichtigen ab wann Titel fest war -> vline trotz facet_grid möglich?
 - bbc source
 - ggsave als pdf sinnvoll? damit man source anklicken kann?
+- Audio Analyse wie der dude bei Reddit?
 
 ## Notes
 
