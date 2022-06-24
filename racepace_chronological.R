@@ -67,9 +67,11 @@ print(g2)
 # ggsave("plots/racepace-mean-ham-bot-delta-per-track-without-dnfs.png", width = 8.37, height = 10.0, dpi = 300)
 
 # Remove SPA 2021 (Race 12)
-df2 <- subset(df2, !(df2$year == 2021 & df2$round == 12))
+df3 <- read.csv("hamilton-vs-bottas/racepace-means-wide-with-deltas-without-dnfs-without-spa-2021.csv")
+df3$delta.seconds <- df3$delta / 1000
+df3$ham.faster <- df3$delta > 0
 
-g3 <- ggplot(df2) +
+g3 <- ggplot(df3) +
   geom_line(aes(y = delta.seconds, x = round, group = 1), size = 0.8) +
   geom_point(
     aes(y = delta.seconds, x = round, fill = ham.faster),
@@ -84,35 +86,12 @@ g3 <- ggplot(df2) +
   ) +
   scale_fill_manual(values = cbp1) +
   scale_x_continuous(breaks = seq(1, 21, 2)) +
-  scale_y_continuous(limits = c(-1.5, 1.5)) +
+  scale_y_continuous(limits = c(-3, 3)) +
   guides(
     fill = FALSE
   )
 
 print(g3)
 
-# ggsave("plots/racepace-mean-ham-bot-delta-per-track-without-dnfs-without-spa-2021.png", width = 8.37, height = 10.0, dpi = 300)
+ggsave("plots/racepace-mean-ham-bot-delta-per-track-without-dnfs-without-spa-2021.png", width = 8.37, height = 10.0, dpi = 300)
 
-
-# As Barplot
-# g4 <- ggplot(df2) +
-#   geom_bar(
-#     aes(y = delta.seconds, x = round, fill = ham.faster),
-#     size = 0.8, alpha = 1, color = "black", width = 0.25,
-#     stat = "identity"
-#   ) +
-#   facet_grid(rows = vars(year)) +
-#   labs(
-#     title = "Hamilton vs Bottas - Mean Racepace Delta per Track - DNFs & Spa 2021 Removed",
-#     subtitle = "Positive Delta (yellow) means Hamilton was faster",
-#     y = "Delta in Seconds",
-#     x = "Race"
-#   ) +
-#   scale_fill_manual(values = cbp1) +
-#   scale_x_continuous(breaks = seq(1, 21, 2)) +
-#   scale_y_continuous(limits = c(-1.5, 1.5)) +
-#   guides(
-#     fill = FALSE
-#   )
-#
-# print(g4)

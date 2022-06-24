@@ -1,0 +1,102 @@
+round,year,name,BOT,HAM
+1,2017,Australian Grand Prix,False,False
+1,2018,Australian Grand Prix,False,False
+1,2019,Australian Grand Prix,False,False
+1,2020,Austrian Grand Prix,False,False
+1,2021,Bahrain Grand Prix,False,False
+2,2017,Chinese Grand Prix,False,False
+2,2018,Bahrain Grand Prix,False,False
+2,2019,Bahrain Grand Prix,False,False
+2,2020,Styrian Grand Prix,False,False
+2,2021,Emilia Romagna Grand Prix,True,False
+3,2017,Bahrain Grand Prix,False,False
+3,2018,Chinese Grand Prix,False,False
+3,2019,Chinese Grand Prix,False,False
+3,2020,Hungarian Grand Prix,False,False
+3,2021,Portuguese Grand Prix,False,False
+4,2017,Russian Grand Prix,False,False
+4,2018,Azerbaijan Grand Prix,True,False
+4,2019,Azerbaijan Grand Prix,False,False
+4,2020,British Grand Prix,False,False
+4,2021,Spanish Grand Prix,False,False
+5,2017,Spanish Grand Prix,True,False
+5,2018,Spanish Grand Prix,False,False
+5,2019,Spanish Grand Prix,False,False
+5,2020,70th Anniversary Grand Prix,False,False
+5,2021,Monaco Grand Prix,True,False
+6,2017,Monaco Grand Prix,False,False
+6,2018,Monaco Grand Prix,False,False
+6,2019,Monaco Grand Prix,False,False
+6,2020,Spanish Grand Prix,False,False
+6,2021,Azerbaijan Grand Prix,False,False
+7,2017,Canadian Grand Prix,False,False
+7,2018,Canadian Grand Prix,False,False
+7,2019,Canadian Grand Prix,False,False
+7,2020,Belgian Grand Prix,False,False
+7,2021,French Grand Prix,False,False
+8,2017,Azerbaijan Grand Prix,False,False
+8,2018,French Grand Prix,False,False
+8,2019,French Grand Prix,False,False
+8,2020,Italian Grand Prix,False,False
+8,2021,Styrian Grand Prix,False,False
+9,2017,Austrian Grand Prix,False,False
+9,2018,Austrian Grand Prix,True,True
+9,2019,Austrian Grand Prix,False,False
+9,2020,Tuscan Grand Prix,False,False
+9,2021,Austrian Grand Prix,False,False
+10,2017,British Grand Prix,False,False
+10,2018,British Grand Prix,False,False
+10,2019,British Grand Prix,False,False
+10,2020,Russian Grand Prix,False,False
+10,2021,British Grand Prix,False,False
+11,2017,Hungarian Grand Prix,False,False
+11,2018,German Grand Prix,False,False
+11,2019,German Grand Prix,True,False
+11,2020,Eifel Grand Prix,True,False
+11,2021,Hungarian Grand Prix,True,False
+12,2017,Belgian Grand Prix,False,False
+12,2018,Hungarian Grand Prix,False,False
+12,2019,Hungarian Grand Prix,False,False
+12,2020,Portuguese Grand Prix,False,False
+12,2021,Belgian Grand Prix,False,False
+13,2017,Italian Grand Prix,False,False
+13,2018,Belgian Grand Prix,False,False
+13,2019,Belgian Grand Prix,False,False
+13,2020,Emilia Romagna Grand Prix,False,False
+13,2021,Dutch Grand Prix,False,False
+14,2017,Singapore Grand Prix,False,False
+14,2018,Italian Grand Prix,False,False
+14,2019,Italian Grand Prix,False,False
+14,2020,Turkish Grand Prix,False,False
+14,2021,Italian Grand Prix,False,True
+15,2017,Malaysian Grand Prix,False,False
+15,2018,Singapore Grand Prix,False,False
+15,2019,Singapore Grand Prix,False,False
+15,2020,Bahrain Grand Prix,False,False
+15,2021,Russian Grand Prix,False,False
+16,2017,Japanese Grand Prix,False,False
+16,2018,Russian Grand Prix,False,False
+16,2019,Russian Grand Prix,False,False
+16,2020,Sakhir Grand Prix,False,
+16,2021,Turkish Grand Prix,False,False
+17,2017,United States Grand Prix,False,False
+17,2018,Japanese Grand Prix,False,False
+17,2019,Japanese Grand Prix,False,False
+17,2020,Abu Dhabi Grand Prix,False,False
+17,2021,United States Grand Prix,False,False
+18,2017,Mexican Grand Prix,False,False
+18,2018,United States Grand Prix,False,False
+18,2019,Mexican Grand Prix,False,False
+18,2021,Mexico City Grand Prix,False,False
+19,2017,Brazilian Grand Prix,False,False
+19,2018,Mexican Grand Prix,False,False
+19,2019,United States Grand Prix,False,False
+19,2021,São Paulo Grand Prix,False,False
+20,2017,Abu Dhabi Grand Prix,False,False
+20,2018,Brazilian Grand Prix,False,False
+20,2019,Brazilian Grand Prix,True,False
+20,2021,Qatar Grand Prix,True,False
+21,2018,Abu Dhabi Grand Prix,False,False
+21,2019,Abu Dhabi Grand Prix,False,False
+21,2021,Saudi Arabian Grand Prix,False,False
+22,2021,Abu Dhabi Grand Prix,False,False

@@ -1,0 +1,190 @@
+race_name,circuit_name,year,code,milliseconds
+70th Anniversary Grand Prix,Silverstone Circuit,2020,BOT,92331.23076923077
+70th Anniversary Grand Prix,Silverstone Circuit,2020,HAM,92179.21153846153
+Abu Dhabi Grand Prix,Yas Marina Circuit,2017,BOT,102801.12727272727
+Abu Dhabi Grand Prix,Yas Marina Circuit,2017,HAM,102872.01818181819
+Abu Dhabi Grand Prix,Yas Marina Circuit,2018,BOT,109606.16363636364
+Abu Dhabi Grand Prix,Yas Marina Circuit,2018,HAM,108734.21818181819
+Abu Dhabi Grand Prix,Yas Marina Circuit,2019,BOT,103456.25454545455
+Abu Dhabi Grand Prix,Yas Marina Circuit,2019,HAM,102649.36363636363
+Abu Dhabi Grand Prix,Yas Marina Circuit,2020,BOT,105538.56363636363
+Abu Dhabi Grand Prix,Yas Marina Circuit,2020,HAM,105582.90909090909
+Abu Dhabi Grand Prix,Yas Marina Circuit,2021,BOT,93531.1724137931
+Abu Dhabi Grand Prix,Yas Marina Circuit,2021,HAM,93441.39655172414
+Australian Grand Prix,Albert Park Grand Prix Circuit,2017,BOT,88823.19298245614
+Australian Grand Prix,Albert Park Grand Prix Circuit,2017,HAM,88800.82456140351
+Australian Grand Prix,Albert Park Grand Prix Circuit,2018,BOT,93234.86206896552
+Australian Grand Prix,Albert Park Grand Prix Circuit,2018,HAM,92729.63793103448
+Australian Grand Prix,Albert Park Grand Prix Circuit,2019,BOT,88402.1551724138
+Australian Grand Prix,Albert Park Grand Prix Circuit,2019,HAM,88762.25862068965
+Austrian Grand Prix,Red Bull Ring,2017,BOT,69134.12676056338
+Austrian Grand Prix,Red Bull Ring,2017,HAM,69238.77464788733
+Austrian Grand Prix,Red Bull Ring,2019,BOT,69588.47887323944
+Austrian Grand Prix,Red Bull Ring,2019,HAM,69642.6338028169
+Austrian Grand Prix,Red Bull Ring,2020,BOT,76841.39436619719
+Austrian Grand Prix,Red Bull Ring,2020,HAM,76851.0985915493
+Austrian Grand Prix,Red Bull Ring,2021,BOT,71162.19718309859
+Austrian Grand Prix,Red Bull Ring,2021,HAM,71563.30985915494
+Azerbaijan Grand Prix,Baku City Circuit,2017,BOT,145872.0980392157
+Azerbaijan Grand Prix,Baku City Circuit,2017,HAM,145916.88235294117
+Azerbaijan Grand Prix,Baku City Circuit,2018,HAM,122044.92156862745
+Azerbaijan Grand Prix,Baku City Circuit,2019,BOT,108096.90196078431
+Azerbaijan Grand Prix,Baku City Circuit,2019,HAM,108126.7843137255
+Azerbaijan Grand Prix,Baku City Circuit,2021,BOT,157405.3725490196
+Azerbaijan Grand Prix,Baku City Circuit,2021,HAM,157530.9411764706
+Bahrain Grand Prix,Bahrain International Circuit,2017,BOT,99188.9649122807
+Bahrain Grand Prix,Bahrain International Circuit,2017,HAM,98947.9649122807
+Bahrain Grand Prix,Bahrain International Circuit,2018,BOT,96888.40350877192
+Bahrain Grand Prix,Bahrain International Circuit,2018,HAM,96990.38596491228
+Bahrain Grand Prix,Bahrain International Circuit,2019,BOT,99373.24561403508
+Bahrain Grand Prix,Bahrain International Circuit,2019,HAM,99320.9649122807
+Bahrain Grand Prix,Bahrain International Circuit,2020,BOT,126442.01754385965
+Bahrain Grand Prix,Bahrain International Circuit,2020,HAM,126096.75438596492
+Bahrain Grand Prix,Bahrain International Circuit,2021,BOT,99308.57142857143
+Bahrain Grand Prix,Bahrain International Circuit,2021,HAM,98641.01785714286
+Belgian Grand Prix,Circuit de Spa-Francorchamps,2017,BOT,115892.63636363637
+Belgian Grand Prix,Circuit de Spa-Francorchamps,2017,HAM,115518.63636363637
+Belgian Grand Prix,Circuit de Spa-Francorchamps,2018,BOT,115410.93181818182
+Belgian Grand Prix,Circuit de Spa-Francorchamps,2018,HAM,114216.75
+Belgian Grand Prix,Circuit de Spa-Francorchamps,2019,BOT,114506.70454545454
+Belgian Grand Prix,Circuit de Spa-Francorchamps,2019,HAM,114242.97727272728
+Belgian Grand Prix,Circuit de Spa-Francorchamps,2020,BOT,114936.56818181818
+Belgian Grand Prix,Circuit de Spa-Francorchamps,2020,HAM,114744.56818181818
+Belgian Grand Prix,Circuit de Spa-Francorchamps,2021,BOT,229485.0
+Belgian Grand Prix,Circuit de Spa-Francorchamps,2021,HAM,209672.0
+Brazilian Grand Prix,Autódromo José Carlos Pace,2017,BOT,77310.19718309859
+Brazilian Grand Prix,Autódromo José Carlos Pace,2017,HAM,77348.30985915494
+Brazilian Grand Prix,Autódromo José Carlos Pace,2018,BOT,73971.95774647887
+Brazilian Grand Prix,Autódromo José Carlos Pace,2018,HAM,73648.81690140846
+Brazilian Grand Prix,Autódromo José Carlos Pace,2019,HAM,78884.74647887323
+British Grand Prix,Silverstone Circuit,2017,BOT,96107.70588235294
+British Grand Prix,Silverstone Circuit,2017,HAM,95831.96078431372
+British Grand Prix,Silverstone Circuit,2018,BOT,101128.21153846153
+British Grand Prix,Silverstone Circuit,2018,HAM,101000.92307692308
+British Grand Prix,Silverstone Circuit,2019,BOT,94103.46153846153
+British Grand Prix,Silverstone Circuit,2019,HAM,93624.07692307692
+British Grand Prix,Silverstone Circuit,2020,BOT,102374.03846153847
+British Grand Prix,Silverstone Circuit,2020,HAM,101563.13461538461
+British Grand Prix,Silverstone Circuit,2021,BOT,136815.5576923077
+British Grand Prix,Silverstone Circuit,2021,HAM,136601.61538461538
+Canadian Grand Prix,Circuit Gilles Villeneuve,2017,BOT,80070.52857142857
+Canadian Grand Prix,Circuit Gilles Villeneuve,2017,HAM,79787.91428571429
+Canadian Grand Prix,Circuit Gilles Villeneuve,2018,BOT,78216.95588235294
+Canadian Grand Prix,Circuit Gilles Villeneuve,2018,HAM,78425.5294117647
+Canadian Grand Prix,Circuit Gilles Villeneuve,2019,BOT,77116.1
+Canadian Grand Prix,Circuit Gilles Villeneuve,2019,HAM,76386.91428571429
+Chinese Grand Prix,Shanghai International Circuit,2017,BOT,105445.82142857143
+Chinese Grand Prix,Shanghai International Circuit,2017,HAM,104574.25
+Chinese Grand Prix,Shanghai International Circuit,2018,BOT,102594.17857142857
+Chinese Grand Prix,Shanghai International Circuit,2018,HAM,102738.66071428571
+Chinese Grand Prix,Shanghai International Circuit,2019,BOT,98801.82142857143
+Chinese Grand Prix,Shanghai International Circuit,2019,HAM,98684.82142857143
+Dutch Grand Prix,Circuit Park Zandvoort,2021,BOT,75859.09722222222
+Dutch Grand Prix,Circuit Park Zandvoort,2021,HAM,75365.65277777778
+Eifel Grand Prix,Nürburgring,2020,HAM,95827.35
+Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2020,BOT,84416.07936507936
+Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2020,HAM,84324.28571428571
+Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021,HAM,117088.85714285714
+French Grand Prix,Circuit Paul Ricard,2018,BOT,103622.96226415095
+French Grand Prix,Circuit Paul Ricard,2018,HAM,102101.60377358491
+French Grand Prix,Circuit Paul Ricard,2019,BOT,96023.6603773585
+French Grand Prix,Circuit Paul Ricard,2019,HAM,95682.98113207547
+French Grand Prix,Circuit Paul Ricard,2021,BOT,99252.60377358491
+French Grand Prix,Circuit Paul Ricard,2021,HAM,99031.58490566038
+German Grand Prix,Hockenheimring,2018,BOT,82901.19402985074
+German Grand Prix,Hockenheimring,2018,HAM,82833.50746268657
+German Grand Prix,Hockenheimring,2019,HAM,98295.96875
+Hungarian Grand Prix,Hungaroring,2017,BOT,85702.5
+Hungarian Grand Prix,Hungaroring,2017,HAM,85708.54285714286
+Hungarian Grand Prix,Hungaroring,2018,BOT,84091.81428571428
+Hungarian Grand Prix,Hungaroring,2018,HAM,83377.52857142857
+Hungarian Grand Prix,Hungaroring,2019,BOT,83129.33333333333
+Hungarian Grand Prix,Hungaroring,2019,HAM,81482.8
+Hungarian Grand Prix,Hungaroring,2020,BOT,82598.92857142857
+Hungarian Grand Prix,Hungaroring,2020,HAM,82463.9
+Hungarian Grand Prix,Hungaroring,2021,HAM,106941.92857142857
+Italian Grand Prix,Autodromo Nazionale di Monza,2017,BOT,85599.67924528301
+Italian Grand Prix,Autodromo Nazionale di Monza,2017,HAM,85515.32075471699
+Italian Grand Prix,Autodromo Nazionale di Monza,2018,BOT,87331.1320754717
+Italian Grand Prix,Autodromo Nazionale di Monza,2018,HAM,87065.7358490566
+Italian Grand Prix,Autodromo Nazionale di Monza,2019,BOT,85424.52830188679
+Italian Grand Prix,Autodromo Nazionale di Monza,2019,HAM,86072.90566037736
+Italian Grand Prix,Autodromo Nazionale di Monza,2020,BOT,121380.45283018867
+Italian Grand Prix,Autodromo Nazionale di Monza,2020,HAM,121571.71698113208
+Italian Grand Prix,Autodromo Nazionale di Monza,2021,BOT,92816.71698113208
+Japanese Grand Prix,Suzuka Circuit,2017,BOT,99278.75471698113
+Japanese Grand Prix,Suzuka Circuit,2017,HAM,99079.1320754717
+Japanese Grand Prix,Suzuka Circuit,2018,BOT,99056.24528301887
+Japanese Grand Prix,Suzuka Circuit,2018,HAM,98812.49056603774
+Japanese Grand Prix,Suzuka Circuit,2019,BOT,94360.67307692308
+Japanese Grand Prix,Suzuka Circuit,2019,HAM,94627.17307692308
+Malaysian Grand Prix,Sepang International Circuit,2017,BOT,97451.98214285714
+Malaysian Grand Prix,Sepang International Circuit,2017,HAM,96679.64285714286
+Mexican Grand Prix,Autódromo Hermanos Rodríguez,2017,BOT,81777.88732394367
+Mexican Grand Prix,Autódromo Hermanos Rodríguez,2017,HAM,83363.94285714286
+Mexican Grand Prix,Autódromo Hermanos Rodríguez,2018,BOT,84592.14285714286
+Mexican Grand Prix,Autódromo Hermanos Rodríguez,2018,HAM,84332.23943661971
+Mexican Grand Prix,Autódromo Hermanos Rodríguez,2019,BOT,81865.59154929577
+Mexican Grand Prix,Autódromo Hermanos Rodríguez,2019,HAM,81815.54929577465
+Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2021,BOT,86261.14492753622
+Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2021,HAM,83600.57746478873
+Monaco Grand Prix,Circuit de Monaco,2017,BOT,80639.19230769231
+Monaco Grand Prix,Circuit de Monaco,2017,HAM,80771.03846153847
+Monaco Grand Prix,Circuit de Monaco,2018,BOT,79405.5
+Monaco Grand Prix,Circuit de Monaco,2018,HAM,79382.30769230769
+Monaco Grand Prix,Circuit de Monaco,2019,BOT,79635.88461538461
+Monaco Grand Prix,Circuit de Monaco,2019,HAM,79595.34615384616
+Monaco Grand Prix,Circuit de Monaco,2021,HAM,76987.83333333333
+Portuguese Grand Prix,Autódromo Internacional do Algarve,2020,BOT,82157.87878787878
+Portuguese Grand Prix,Autódromo Internacional do Algarve,2020,HAM,81770.12121212122
+Portuguese Grand Prix,Autódromo Internacional do Algarve,2021,BOT,86438.65151515152
+Portuguese Grand Prix,Autódromo Internacional do Algarve,2021,HAM,85930.62121212122
+Qatar Grand Prix,Losail International Circuit,2021,HAM,88920.54385964913
+Russian Grand Prix,Sochi Autodrom,2017,BOT,101706.59615384616
+Russian Grand Prix,Sochi Autodrom,2017,HAM,102405.05769230769
+Russian Grand Prix,Sochi Autodrom,2018,BOT,99013.69811320755
+Russian Grand Prix,Sochi Autodrom,2018,HAM,98965.67924528301
+Russian Grand Prix,Sochi Autodrom,2019,BOT,106090.96226415095
+Russian Grand Prix,Sochi Autodrom,2019,HAM,106018.71698113208
+Russian Grand Prix,Sochi Autodrom,2020,BOT,106421.96226415095
+Russian Grand Prix,Sochi Autodrom,2020,HAM,106850.81132075471
+Russian Grand Prix,Sochi Autodrom,2021,BOT,103934.60377358491
+Russian Grand Prix,Sochi Autodrom,2021,HAM,102660.39622641509
+Sakhir Grand Prix,Bahrain International Circuit,2020,BOT,63109.22988505747
+Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2021,BOT,152052.98
+Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2021,HAM,151502.36
+Singapore Grand Prix,Marina Bay Street Circuit,2017,BOT,127799.03448275862
+Singapore Grand Prix,Marina Bay Street Circuit,2017,HAM,127647.31034482758
+Singapore Grand Prix,Marina Bay Street Circuit,2018,BOT,110221.98360655738
+Singapore Grand Prix,Marina Bay Street Circuit,2018,HAM,109370.67213114754
+Singapore Grand Prix,Marina Bay Street Circuit,2019,BOT,116717.80327868853
+Singapore Grand Prix,Marina Bay Street Circuit,2019,HAM,116693.03278688525
+Spanish Grand Prix,Circuit de Barcelona-Catalunya,2017,HAM,87219.65151515152
+Spanish Grand Prix,Circuit de Barcelona-Catalunya,2018,BOT,87129.77272727272
+Spanish Grand Prix,Circuit de Barcelona-Catalunya,2018,HAM,86817.75757575757
+Spanish Grand Prix,Circuit de Barcelona-Catalunya,2019,BOT,87189.65151515152
+Spanish Grand Prix,Circuit de Barcelona-Catalunya,2019,HAM,87127.92424242424
+Spanish Grand Prix,Circuit de Barcelona-Catalunya,2020,BOT,84091.37878787878
+Spanish Grand Prix,Circuit de Barcelona-Catalunya,2020,HAM,83413.31818181818
+Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021,BOT,85065.0
+Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021,HAM,84661.81818181818
+Styrian Grand Prix,Red Bull Ring,2020,BOT,70202.84507042254
+Styrian Grand Prix,Red Bull Ring,2020,HAM,70009.61971830986
+Styrian Grand Prix,Red Bull Ring,2021,BOT,70222.98591549296
+Styrian Grand Prix,Red Bull Ring,2021,HAM,70065.74647887323
+São Paulo Grand Prix,Autódromo José Carlos Pace,2021,BOT,78259.5352112676
+São Paulo Grand Prix,Autódromo José Carlos Pace,2021,HAM,78068.32394366198
+Turkish Grand Prix,Istanbul Park,2020,BOT,108623.28070175438
+Turkish Grand Prix,Istanbul Park,2020,HAM,105850.22413793103
+Turkish Grand Prix,Istanbul Park,2021,BOT,94208.6724137931
+Turkish Grand Prix,Istanbul Park,2021,HAM,94929.56896551725
+Tuscan Grand Prix,Autodromo Internazionale del Mugello,2020,BOT,142032.88135593222
+Tuscan Grand Prix,Autodromo Internazionale del Mugello,2020,HAM,141950.16949152542
+United States Grand Prix,Circuit of the Americas,2017,BOT,101177.82142857143
+United States Grand Prix,Circuit of the Americas,2017,HAM,100553.41071428571
+United States Grand Prix,Circuit of the Americas,2018,BOT,101489.05357142857
+United States Grand Prix,Circuit of the Americas,2018,HAM,101089.01785714286
+United States Grand Prix,Circuit of the Americas,2019,BOT,100636.66071428571
+United States Grand Prix,Circuit of the Americas,2019,HAM,100710.73214285714
+United States Grand Prix,Circuit of the Americas,2021,BOT,102797.85714285714
+United States Grand Prix,Circuit of the Americas,2021,HAM,101390.80357142857

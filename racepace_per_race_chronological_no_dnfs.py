@@ -8,7 +8,7 @@ def create_mean_racepace():
     print(means)
 
 
-def racepace_wide_to_long():
+def racepace_long_to_wide():
     data = pd.read_csv("hamilton-vs-bottas/racepace-means-without-dnfs.csv")
     data = data.pivot(index=["round", "year"], columns="code", values="milliseconds").reset_index()
     data.to_csv("hamilton-vs-bottas/racepace-means-wide-without-dnfs.csv", index=False)
@@ -38,7 +38,7 @@ def racepace_deltas_per_year():
 
 
 create_mean_racepace()
-racepace_wide_to_long()
+racepace_long_to_wide()
 racepace_remove_spa_2021()
 racepace_calculate_deltas()
 racepace_deltas_per_year()

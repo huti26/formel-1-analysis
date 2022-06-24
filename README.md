@@ -29,5 +29,27 @@
   - Eingeklappt: Link zu GitHub + Datentransformationen
   - Datenanalyse
 
-- Anstatt Racepace über Track 1,2,3... Racepace von jedem GP, alphabetisch für jedes Jahr
-- Punkte jedes Jahr Entwicklung über Track 1,2,3...
+- Chronologisch -> Gucken ob HAM aufdreht am Ende -> connected dots deswegen
+- Alphabetisch -> Gucken ob bestimmter Track gut für X -> bars deswegen
+- Punkte -> Berücksichtigen, ob BOT am Titelkampf beteiligt war (2018, 2021?), wegen Team Orders
+- Chronologisch -> Wann DNFs? -> Unglückliche Strecken für Bottas 5 11 20
+- Berücksichtigen ab wann Titel fest war -> vline trotz facet_grid möglich?
+- bbc source
+- ggsave als pdf sinnvoll? damit man source anklicken kann?
+
+## Notes
+
+- Bahrain 2020 GP 2 Mal -> wenn man nur nach circuit_name und nicht gp_name grouped falsche ergebnisse
+- data folder daten aus sql exportiert
+- Kein DNF, aber Werte fehlen
+  - 2021
+    - 12 -> Spa
+    - 18 -> usa beide status 1 -> 19 wäre aber mexico bei dem bot 11 als status (+1 lap) & das ist ploted -> 18 2.6 sec außerhalb des geploteten
+  - 2020
+    - 14 -> 2.x sec außerhalb des geploteten
+    - 16 keine zeit für HAM -> sakhir gp, HAM hatte covid
+    - 18? 19? -> covid ende früh
+  - 2019 12 -> außerhalb gewesen
+  - 2018 8 außerhalb, 19 da
+  - 2017 18 außerhalb
+- Statuscodes 11-19 (gibt noch wildere) -> Kein DNF, nur +X laps (Wenn HAM +1 Lap ist und VER race finished, dann ist hamiltons race 1 lap kürzer)

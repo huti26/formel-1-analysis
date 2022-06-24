@@ -11,7 +11,7 @@ def create_mean_racepace():
     print(means)
 
 
-def racepace_wide_to_long():
+def racepace_long_to_wide():
     data = pd.read_csv("hamilton-vs-bottas/racepace-means.csv")
     data = data.pivot(index=["races_round", "races_year"], columns="driver_code", values="milliseconds").reset_index()
     data.to_csv("hamilton-vs-bottas/racepace-means-wide.csv", index=False)
