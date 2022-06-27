@@ -14,9 +14,10 @@ df$delta.seconds <- df$delta / 1000
 df$ham.faster <- df$delta > 0
 
 g <- ggplot(df) +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "#999999") +
     geom_bar(
     aes(y = delta.seconds, x = race_name, fill = ham.faster),
-    size = 0.8, alpha = 1, color = "black", width = 0.25,
+    size = 0.7, alpha = 1, color = "black", width = 0.25,
     stat = "identity"
   ) +
   facet_grid(rows = vars(year)) +
@@ -30,7 +31,7 @@ g <- ggplot(df) +
   scale_x_discrete(guide = guide_axis(angle = 90)) +
   scale_y_continuous(limits = c(-1.5, 1.5)) +
   guides(
-    fill = FALSE
+    fill = "none"
   )
 
 

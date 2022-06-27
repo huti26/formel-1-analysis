@@ -36,7 +36,6 @@
 - Berücksichtigen ab wann Titel fest war -> vline trotz facet_grid möglich?
 - bbc source
 - ggsave als pdf sinnvoll? damit man source anklicken kann?
-- Audio Analyse wie der dude bei Reddit?
 
 ## Notes
 
@@ -54,3 +53,62 @@
   - 2018 8 außerhalb, 19 da
   - 2017 18 außerhalb
 - Statuscodes 11-19 (gibt noch wildere) -> Kein DNF, nur +X laps (Wenn HAM +1 Lap ist und VER race finished, dann ist hamiltons race 1 lap kürzer)
+
+## Future Work
+
+- Audio Analyse wie der dude bei Reddit?
+
+## Title Race Done
+
+- WCC berücksichtigen
+- 2017 -> 18 Mexican GP (Title Race war gegen Vettel, Bottas wann draußen?)
+- 2018 -> 19 Mexican GP (Title Race war gegen Vettel, Bottas wann draußen?)
+- 2019 -> 19 US GP
+- 2020 -> 14 Turkish GP
+- 2021 -> Last GP -> Abu Dhabi (Title Race war gegen Verstappen)
+
+## Analyse
+
+### Standings
+
+- 17 18 Vettel
+- 19 20 Bottas
+- 21 Verstappen
+- Linie ab Wann Titelkampf entschieden?
+- In all den Jahren war Bottas Punktetechnisch nur nach dem ersten Rennen von 2019 und nach den ersten zwei Rennen von 2020 vor Hamilton
+
+### DNFs
+
+- 10 BOT vs 2 HAM
+- Rennen 11 besonders unglücklich für Bottas, 3 mal DNF
+
+## Rennen chronologisch
+
+- DNFs und Spa 2021 entfernt
+- Delta des durchschnittlichen Racepace auf der Y Achse
+- Y Achse symmetrisch
+- HAM sehr starker unterschied - über 2 sec
+  - 2017 nie
+  - 2018 nie
+  - 2019 nie
+  - 2020 14
+  - 2021 18
+- HAM starker unterschied - über 1 sec
+  - 2017 nie
+  - 2018 8 13
+  - 2019 12
+  - 2020 nie (14)
+  - 2021 15 17 (18)
+- BOT starker unterschied -> 2017 18
+- Trends
+  - Mehr Gelb as Grün & stärkere Unterschiede
+  - Hamilton bekannt für starke Schlussphase
+    - Deswegen Linien und Punkte anstatt Balken
+    - TODO: VLine benötigt für analyse
+    - TODO: Chequered Flag für wann Season zu Ende war
+  - Besonders starkes Race nach Nummer?
+
+## Rennen alphabetisch
+
+- 70th Anniversary GP = Silverstone
+- HAM unbesiegt ->
