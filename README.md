@@ -37,6 +37,8 @@
 - bbc source
 - ggsave als pdf sinnvoll? damit man source anklicken kann?
 
+- Placements
+
 ## Notes
 
 - Bahrain 2020 GP 2 Mal -> wenn man nur nach circuit_name und nicht gp_name grouped falsche ergebnisse
