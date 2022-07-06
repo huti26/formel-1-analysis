@@ -1,351 +1,351 @@
-duration,stop,year,round,name,code
-21.709,1,2017,1,Australian Grand Prix,HAM
-21.988,1,2017,1,Australian Grand Prix,VET
-22.906,1,2017,2,Chinese Grand Prix,VET
-22.999,1,2017,2,Chinese Grand Prix,HAM
-17.354,2,2017,2,Chinese Grand Prix,VET
-17.616,2,2017,2,Chinese Grand Prix,HAM
-17.362,3,2017,2,Chinese Grand Prix,VET
-17.737,3,2017,2,Chinese Grand Prix,HAM
-17.37,4,2017,2,Chinese Grand Prix,VET
-22.443,5,2017,2,Chinese Grand Prix,VET
-22.668,4,2017,2,Chinese Grand Prix,HAM
-24.702,1,2017,3,Bahrain Grand Prix,VET
-30.687,1,2017,3,Bahrain Grand Prix,HAM
-24.314,2,2017,3,Bahrain Grand Prix,VET
-30.682,2,2017,3,Bahrain Grand Prix,HAM
-29.739,1,2017,4,Russian Grand Prix,HAM
-30.097,1,2017,4,Russian Grand Prix,VET
-22.499,1,2017,5,Spanish Grand Prix,VET
-21.544,1,2017,5,Spanish Grand Prix,HAM
-21.722,2,2017,5,Spanish Grand Prix,HAM
-22.307,2,2017,5,Spanish Grand Prix,VET
-24.306,1,2017,6,Monaco Grand Prix,VET
-24.155,1,2017,6,Monaco Grand Prix,HAM
-31.596,1,2017,7,Canadian Grand Prix,VET
-23.061,1,2017,7,Canadian Grand Prix,HAM
-23.345,2,2017,7,Canadian Grand Prix,VET
-20.418,1,2017,8,Azerbaijan Grand Prix,HAM
-20.059,1,2017,8,Azerbaijan Grand Prix,VET
-15.234,2,2017,8,Azerbaijan Grand Prix,HAM
-15.174,2,2017,8,Azerbaijan Grand Prix,VET
-21:50.768,3,2017,8,Azerbaijan Grand Prix,HAM
-21:50.808,3,2017,8,Azerbaijan Grand Prix,VET
-27.025,4,2017,8,Azerbaijan Grand Prix,HAM
-29.317,4,2017,8,Azerbaijan Grand Prix,VET
-20.761,1,2017,9,Austrian Grand Prix,HAM
-21.75,1,2017,9,Austrian Grand Prix,VET
-28.363,1,2017,10,British Grand Prix,VET
-27.733,1,2017,10,British Grand Prix,HAM
-35.204,2,2017,10,British Grand Prix,VET
-21.338,1,2017,11,Hungarian Grand Prix,HAM
-22.317,1,2017,11,Hungarian Grand Prix,VET
-22.037,1,2017,12,Belgian Grand Prix,HAM
-22.443,1,2017,12,Belgian Grand Prix,VET
-22.357,2,2017,12,Belgian Grand Prix,HAM
-25.65,2,2017,12,Belgian Grand Prix,VET
-24.307,1,2017,13,Italian Grand Prix,VET
-23.725,1,2017,13,Italian Grand Prix,HAM
-30.442,1,2017,14,Singapore Grand Prix,HAM
-24.368,2,2017,14,Singapore Grand Prix,HAM
-24.337,3,2017,14,Singapore Grand Prix,HAM
-28.466,4,2017,14,Singapore Grand Prix,HAM
-23.489,1,2017,15,Malaysian Grand Prix,HAM
-23.695,1,2017,15,Malaysian Grand Prix,VET
-22.724,1,2017,16,Japanese Grand Prix,HAM
-24.3,1,2017,17,United States Grand Prix,VET
-23.402,1,2017,17,United States Grand Prix,HAM
-23.62,2,2017,17,United States Grand Prix,VET
-32.037,1,2017,18,Mexican Grand Prix,VET
-29.283,1,2017,18,Mexican Grand Prix,HAM
-23.315,2,2017,18,Mexican Grand Prix,HAM
-22.379,2,2017,18,Mexican Grand Prix,VET
-19.097,1,2017,19,Brazilian Grand Prix,VET
-19.377,1,2017,19,Brazilian Grand Prix,HAM
-17.817,2,2017,19,Brazilian Grand Prix,VET
-19.237,2,2017,19,Brazilian Grand Prix,HAM
-17.842,3,2017,19,Brazilian Grand Prix,VET
-18.725,3,2017,19,Brazilian Grand Prix,HAM
-22.736,4,2017,19,Brazilian Grand Prix,VET
-23.121,4,2017,19,Brazilian Grand Prix,HAM
-21.221,1,2017,20,Abu Dhabi Grand Prix,VET
-21.274,1,2017,20,Abu Dhabi Grand Prix,HAM
-21.821,1,2018,1,Australian Grand Prix,HAM
-21.787,1,2018,1,Australian Grand Prix,VET
-24.524,1,2018,2,Bahrain Grand Prix,VET
-24.302,1,2018,2,Bahrain Grand Prix,HAM
-22.464,1,2018,3,Chinese Grand Prix,HAM
-23.009,1,2018,3,Chinese Grand Prix,VET
-20.377,1,2018,4,Azerbaijan Grand Prix,HAM
-20.037,1,2018,4,Azerbaijan Grand Prix,VET
-20.823,2,2018,4,Azerbaijan Grand Prix,VET
-21.329,2,2018,4,Azerbaijan Grand Prix,HAM
-22.054,1,2018,5,Spanish Grand Prix,VET
-22.085,1,2018,5,Spanish Grand Prix,HAM
-24.273,2,2018,5,Spanish Grand Prix,VET
-23.739,1,2018,6,Monaco Grand Prix,HAM
-23.964,1,2018,6,Monaco Grand Prix,VET
-23.335,1,2018,7,Canadian Grand Prix,HAM
-23.529,1,2018,7,Canadian Grand Prix,VET
-32.612,1,2018,8,French Grand Prix,VET
-24.31,1,2018,8,French Grand Prix,HAM
-31.029,2,2018,8,French Grand Prix,VET
-23.912,1,2018,9,Austrian Grand Prix,VET
-21.245,1,2018,9,Austrian Grand Prix,HAM
-20.98,2,2018,9,Austrian Grand Prix,HAM
-28.677,1,2018,10,British Grand Prix,VET
-28.982,1,2018,10,British Grand Prix,HAM
-28.174,2,2018,10,British Grand Prix,VET
-18.657,1,2018,11,German Grand Prix,VET
-18.978,1,2018,11,German Grand Prix,HAM
-21.48,1,2018,12,Hungarian Grand Prix,HAM
-23.111,1,2018,12,Hungarian Grand Prix,VET
-19.582,1,2018,13,Belgian Grand Prix,VET
-19.372,1,2018,13,Belgian Grand Prix,HAM
-22.375,2,2018,13,Belgian Grand Prix,HAM
-22.253,2,2018,13,Belgian Grand Prix,VET
-32.219,1,2018,14,Italian Grand Prix,VET
-23.728,1,2018,14,Italian Grand Prix,HAM
-24.301,2,2018,14,Italian Grand Prix,VET
-28.722,1,2018,15,Singapore Grand Prix,VET
-28.946,1,2018,15,Singapore Grand Prix,HAM
-29.798,1,2018,16,Russian Grand Prix,VET
-29.551,1,2018,16,Russian Grand Prix,HAM
-22.614,1,2018,17,Japanese Grand Prix,HAM
-22.748,1,2018,17,Japanese Grand Prix,VET
-23.693,1,2018,18,United States Grand Prix,HAM
-24.449,1,2018,18,United States Grand Prix,VET
-23.915,2,2018,18,United States Grand Prix,HAM
-22.269,1,2018,19,Mexican Grand Prix,HAM
-22.658,1,2018,19,Mexican Grand Prix,VET
-21.777,2,2018,19,Mexican Grand Prix,VET
-22.399,2,2018,19,Mexican Grand Prix,HAM
-22.641,1,2018,20,Brazilian Grand Prix,HAM
-22.551,1,2018,20,Brazilian Grand Prix,VET
-22.683,2,2018,20,Brazilian Grand Prix,VET
-21.283,1,2018,21,Abu Dhabi Grand Prix,HAM
-22.63,1,2018,21,Abu Dhabi Grand Prix,VET
-21.515,1,2019,1,Australian Grand Prix,HAM
-22.014,1,2019,1,Australian Grand Prix,BOT
-24.865,1,2019,2,Bahrain Grand Prix,BOT
-24.255,1,2019,2,Bahrain Grand Prix,HAM
-24.324,2,2019,2,Bahrain Grand Prix,HAM
-24.433,2,2019,2,Bahrain Grand Prix,BOT
-22.196,1,2019,3,Chinese Grand Prix,BOT
-22.644,1,2019,3,Chinese Grand Prix,HAM
-23.597,2,2019,3,Chinese Grand Prix,HAM
-24.083,2,2019,3,Chinese Grand Prix,BOT
-20.006,1,2019,4,Azerbaijan Grand Prix,BOT
-19.993,1,2019,4,Azerbaijan Grand Prix,HAM
-22.034,1,2019,5,Spanish Grand Prix,BOT
-22.265,1,2019,5,Spanish Grand Prix,HAM
-22.018,2,2019,5,Spanish Grand Prix,BOT
-22.511,2,2019,5,Spanish Grand Prix,HAM
-24.266,1,2019,6,Monaco Grand Prix,HAM
-25.03,1,2019,6,Monaco Grand Prix,BOT
-24.776,2,2019,6,Monaco Grand Prix,BOT
-23.662,1,2019,7,Canadian Grand Prix,HAM
-23.994,1,2019,7,Canadian Grand Prix,BOT
-23.456,2,2019,7,Canadian Grand Prix,BOT
-30.412,1,2019,8,French Grand Prix,BOT
-30.186,1,2019,8,French Grand Prix,HAM
-22.552,1,2019,9,Austrian Grand Prix,BOT
-30.067,1,2019,9,Austrian Grand Prix,HAM
-28.493,1,2019,10,British Grand Prix,BOT
-28.905,1,2019,10,British Grand Prix,HAM
-28.177,2,2019,10,British Grand Prix,BOT
-20.203,1,2019,11,German Grand Prix,HAM
-22.243,1,2019,11,German Grand Prix,BOT
-20.498,2,2019,11,German Grand Prix,BOT
-22.947,2,2019,11,German Grand Prix,HAM
-21.142,3,2019,11,German Grand Prix,BOT
-21.009,4,2019,11,German Grand Prix,BOT
-27.069,4,2019,11,German Grand Prix,HAM
-20.015,5,2019,11,German Grand Prix,HAM
-19.61,6,2019,11,German Grand Prix,HAM
-33.328,1,2019,12,Hungarian Grand Prix,BOT
-22.88,1,2019,12,Hungarian Grand Prix,HAM
-21.744,2,2019,12,Hungarian Grand Prix,BOT
-21.39,2,2019,12,Hungarian Grand Prix,HAM
-23.497,1,2019,13,Belgian Grand Prix,HAM
-22.579,1,2019,13,Belgian Grand Prix,BOT
-23.912,1,2019,14,Italian Grand Prix,HAM
-23.7,1,2019,14,Italian Grand Prix,BOT
-23.731,2,2019,14,Italian Grand Prix,HAM
-29.234,1,2019,15,Singapore Grand Prix,BOT
-28.93,1,2019,15,Singapore Grand Prix,HAM
-29.751,1,2019,16,Russian Grand Prix,HAM
-29.436,1,2019,16,Russian Grand Prix,BOT
-23.0,1,2019,17,Japanese Grand Prix,BOT
-23.582,1,2019,17,Japanese Grand Prix,HAM
-23.157,2,2019,17,Japanese Grand Prix,BOT
-23.591,2,2019,17,Japanese Grand Prix,HAM
-22.269,1,2019,18,Mexican Grand Prix,HAM
-22.179,1,2019,18,Mexican Grand Prix,BOT
-24.151,1,2019,19,United States Grand Prix,BOT
-23.943,1,2019,19,United States Grand Prix,HAM
-23.819,2,2019,19,United States Grand Prix,BOT
-22.882,1,2019,20,Brazilian Grand Prix,HAM
-23.148,1,2019,20,Brazilian Grand Prix,BOT
-23.21,2,2019,20,Brazilian Grand Prix,BOT
-23.088,2,2019,20,Brazilian Grand Prix,HAM
-23.06,3,2019,20,Brazilian Grand Prix,HAM
-22.178,1,2019,21,Abu Dhabi Grand Prix,HAM
-21.145,1,2019,21,Abu Dhabi Grand Prix,BOT
-21.937,1,2020,1,Austrian Grand Prix,BOT
-21.85,1,2020,1,Austrian Grand Prix,HAM
-16.407,2,2020,1,Austrian Grand Prix,BOT
-16.365,2,2020,1,Austrian Grand Prix,HAM
-21.729,1,2020,2,Styrian Grand Prix,HAM
-21.376,1,2020,2,Styrian Grand Prix,BOT
-21.906,1,2020,3,Hungarian Grand Prix,BOT
-22.32,1,2020,3,Hungarian Grand Prix,HAM
-21.644,2,2020,3,Hungarian Grand Prix,BOT
-22.264,2,2020,3,Hungarian Grand Prix,HAM
-21.572,3,2020,3,Hungarian Grand Prix,BOT
-22.426,3,2020,3,Hungarian Grand Prix,HAM
-28.805,1,2020,4,British Grand Prix,HAM
-30.571,1,2020,4,British Grand Prix,BOT
-33.602,2,2020,4,British Grand Prix,BOT
-28.408,1,2020,5,70th Anniversary Grand Prix,BOT
-28.406,1,2020,5,70th Anniversary Grand Prix,HAM
-28.188,2,2020,5,70th Anniversary Grand Prix,BOT
-29.402,2,2020,5,70th Anniversary Grand Prix,HAM
-23.377,1,2020,6,Spanish Grand Prix,HAM
-22.31,1,2020,6,Spanish Grand Prix,BOT
-22.143,2,2020,6,Spanish Grand Prix,BOT
-21.853,2,2020,6,Spanish Grand Prix,HAM
-22.607,3,2020,6,Spanish Grand Prix,BOT
-23.298,1,2020,7,Belgian Grand Prix,HAM
-25.548,1,2020,7,Belgian Grand Prix,BOT
-25:16.864,2,2020,8,Italian Grand Prix,HAM
-24.41,1,2020,8,Italian Grand Prix,BOT
-24.671,1,2020,8,Italian Grand Prix,HAM
-23:56.402,2,2020,9,Tuscan Grand Prix,BOT
-23:56.696,2,2020,9,Tuscan Grand Prix,HAM
-17.56,1,2020,9,Tuscan Grand Prix,BOT
-17.536,1,2020,9,Tuscan Grand Prix,HAM
-23.111,3,2020,9,Tuscan Grand Prix,BOT
-22.445,3,2020,9,Tuscan Grand Prix,HAM
-23.199,4,2020,9,Tuscan Grand Prix,BOT
-22.8,4,2020,9,Tuscan Grand Prix,HAM
-21:40.911,5,2020,9,Tuscan Grand Prix,HAM
-21:42.010,5,2020,9,Tuscan Grand Prix,BOT
-25:22.264,2,2020,8,Italian Grand Prix,BOT
-31.643,3,2020,8,Italian Grand Prix,HAM
-41.352,1,2020,10,Russian Grand Prix,HAM
-29.75,1,2020,10,Russian Grand Prix,BOT
-22.625,1,2020,11,Eifel Grand Prix,BOT
-23.983,1,2020,11,Eifel Grand Prix,HAM
-23.18,2,2020,11,Eifel Grand Prix,HAM
-27.162,1,2020,12,Portuguese Grand Prix,HAM
-26.512,1,2020,12,Portuguese Grand Prix,BOT
-29.6,1,2020,13,Emilia Romagna Grand Prix,BOT
-30.382,1,2020,13,Emilia Romagna Grand Prix,HAM
-30.129,2,2020,13,Emilia Romagna Grand Prix,BOT
-30.925,2,2020,13,Emilia Romagna Grand Prix,HAM
-23.398,1,2020,14,Turkish Grand Prix,BOT
-23.86,1,2020,14,Turkish Grand Prix,HAM
-22.853,2,2020,14,Turkish Grand Prix,BOT
-19:23.979,1,2020,15,Bahrain Grand Prix,HAM
-19:19.205,1,2020,15,Bahrain Grand Prix,BOT
-24.936,2,2020,15,Bahrain Grand Prix,BOT
-24.061,2,2020,15,Bahrain Grand Prix,HAM
-24.734,3,2020,15,Bahrain Grand Prix,BOT
-24.345,3,2020,15,Bahrain Grand Prix,HAM
-24.675,4,2020,15,Bahrain Grand Prix,BOT
-24.552,1,2020,16,Sakhir Grand Prix,BOT
-52.874,2,2020,16,Sakhir Grand Prix,BOT
-21.587,1,2020,17,Abu Dhabi Grand Prix,BOT
-22.406,1,2020,17,Abu Dhabi Grand Prix,HAM
-24.839,1,2021,1,Bahrain Grand Prix,HAM
-24.767,1,2021,1,Bahrain Grand Prix,VER
-24.076,2,2021,1,Bahrain Grand Prix,HAM
-23.848,2,2021,1,Bahrain Grand Prix,VER
-29.809,1,2021,2,Emilia Romagna Grand Prix,VER
-32.112,1,2021,2,Emilia Romagna Grand Prix,HAM
-38.198,2,2021,2,Emilia Romagna Grand Prix,HAM
-27:01.361,2,2021,2,Emilia Romagna Grand Prix,VER
-24:54.731,3,2021,2,Emilia Romagna Grand Prix,HAM
-1:05.870,4,2021,2,Emilia Romagna Grand Prix,HAM
-22.426,1,2021,3,Portuguese Grand Prix,HAM
-22.718,1,2021,3,Portuguese Grand Prix,VER
-22.164,2,2021,3,Portuguese Grand Prix,HAM
-22.104,2,2021,3,Portuguese Grand Prix,VER
-26.743,3,2021,3,Portuguese Grand Prix,VER
-26.907,3,2021,3,Portuguese Grand Prix,HAM
-26.319,4,2021,3,Portuguese Grand Prix,VER
-23.565,1,2021,4,Spanish Grand Prix,VER
-22.22,1,2021,4,Spanish Grand Prix,HAM
-22.078,2,2021,4,Spanish Grand Prix,HAM
-21.592,2,2021,4,Spanish Grand Prix,VER
-23.783,1,2021,5,Monaco Grand Prix,HAM
-23.746,1,2021,5,Monaco Grand Prix,VER
-24.244,2,2021,5,Monaco Grand Prix,HAM
-22.47,1,2021,6,Azerbaijan Grand Prix,HAM
-19.769,1,2021,6,Azerbaijan Grand Prix,VER
-15.432,2,2021,6,Azerbaijan Grand Prix,HAM
-33:20.923,3,2021,6,Azerbaijan Grand Prix,HAM
-29.803,1,2021,7,French Grand Prix,VER
-30.263,1,2021,7,French Grand Prix,HAM
-30.123,2,2021,7,French Grand Prix,VER
-21.219,1,2021,8,Styrian Grand Prix,HAM
-20.936,1,2021,8,Styrian Grand Prix,VER
-21.64,2,2021,8,Styrian Grand Prix,HAM
-21.005,1,2021,9,Austrian Grand Prix,HAM
-21.09,1,2021,9,Austrian Grand Prix,VER
-21.421,2,2021,9,Austrian Grand Prix,HAM
-21.236,2,2021,9,Austrian Grand Prix,VER
-34:08.376,1,2021,10,British Grand Prix,HAM
-40.266,2,2021,10,British Grand Prix,HAM
-22.569,1,2021,11,Hungarian Grand Prix,VER
-24:09.259,1,2021,11,Hungarian Grand Prix,HAM
-24:16.349,2,2021,11,Hungarian Grand Prix,VER
-35.245,3,2021,11,Hungarian Grand Prix,VER
-21.731,2,2021,11,Hungarian Grand Prix,HAM
-21.516,3,2021,11,Hungarian Grand Prix,HAM
-21.047,4,2021,11,Hungarian Grand Prix,VER
-20.848,5,2021,11,Hungarian Grand Prix,VER
-21.208,4,2021,11,Hungarian Grand Prix,HAM
-19.77,1,2021,13,Dutch Grand Prix,HAM
-19.142,1,2021,13,Dutch Grand Prix,VER
-18.868,2,2021,13,Dutch Grand Prix,HAM
-18.578,2,2021,13,Dutch Grand Prix,VER
-19.202,3,2021,13,Dutch Grand Prix,HAM
-32.456,1,2021,14,Italian Grand Prix,VER
-25.619,1,2021,14,Italian Grand Prix,HAM
-29.878,1,2021,15,Russian Grand Prix,HAM
-29.578,1,2021,15,Russian Grand Prix,VER
-31.017,2,2021,15,Russian Grand Prix,VER
-30.045,2,2021,15,Russian Grand Prix,HAM
-22.442,1,2021,16,Turkish Grand Prix,VER
-22.684,1,2021,16,Turkish Grand Prix,HAM
-23.727,1,2021,17,United States Grand Prix,VER
-24.481,1,2021,17,United States Grand Prix,HAM
-24.052,2,2021,17,United States Grand Prix,VER
-23.676,2,2021,17,United States Grand Prix,HAM
-22.373,1,2021,18,Mexico City Grand Prix,HAM
-21.908,1,2021,18,Mexico City Grand Prix,VER
-17.916,1,2021,19,São Paulo Grand Prix,VER
-17.91,1,2021,19,São Paulo Grand Prix,HAM
-17.807,2,2021,19,São Paulo Grand Prix,VER
-18.66,2,2021,19,São Paulo Grand Prix,HAM
-22.69,3,2021,19,São Paulo Grand Prix,HAM
-22.722,3,2021,19,São Paulo Grand Prix,VER
-22.766,4,2021,19,São Paulo Grand Prix,VER
-22.664,4,2021,19,São Paulo Grand Prix,HAM
-25.3,1,2021,20,Qatar Grand Prix,VER
-25.235,1,2021,20,Qatar Grand Prix,HAM
-25.175,2,2021,20,Qatar Grand Prix,VER
-25.381,2,2021,20,Qatar Grand Prix,HAM
-25.465,3,2021,20,Qatar Grand Prix,VER
-20.58,1,2021,21,Saudi Arabian Grand Prix,HAM
-16:36.375,1,2021,21,Saudi Arabian Grand Prix,VER
-16:35.856,2,2021,21,Saudi Arabian Grand Prix,HAM
-18:07.591,2,2021,21,Saudi Arabian Grand Prix,VER
-18:06.674,3,2021,21,Saudi Arabian Grand Prix,HAM
-21.152,1,2021,22,Abu Dhabi Grand Prix,VER
-21.595,1,2021,22,Abu Dhabi Grand Prix,HAM
-21.871,2,2021,22,Abu Dhabi Grand Prix,VER
-21.453,3,2021,22,Abu Dhabi Grand Prix,VER
-1:09.022,3,2019,11,German Grand Prix,HAM
+milliseconds,stop,year,round,name,code
+21709,1,2017,1,Australian Grand Prix,HAM
+21988,1,2017,1,Australian Grand Prix,VET
+22906,1,2017,2,Chinese Grand Prix,VET
+22999,1,2017,2,Chinese Grand Prix,HAM
+17354,2,2017,2,Chinese Grand Prix,VET
+17616,2,2017,2,Chinese Grand Prix,HAM
+17362,3,2017,2,Chinese Grand Prix,VET
+17737,3,2017,2,Chinese Grand Prix,HAM
+17370,4,2017,2,Chinese Grand Prix,VET
+22443,5,2017,2,Chinese Grand Prix,VET
+22668,4,2017,2,Chinese Grand Prix,HAM
+24702,1,2017,3,Bahrain Grand Prix,VET
+30687,1,2017,3,Bahrain Grand Prix,HAM
+24314,2,2017,3,Bahrain Grand Prix,VET
+30682,2,2017,3,Bahrain Grand Prix,HAM
+29739,1,2017,4,Russian Grand Prix,HAM
+30097,1,2017,4,Russian Grand Prix,VET
+22499,1,2017,5,Spanish Grand Prix,VET
+21544,1,2017,5,Spanish Grand Prix,HAM
+21722,2,2017,5,Spanish Grand Prix,HAM
+22307,2,2017,5,Spanish Grand Prix,VET
+24306,1,2017,6,Monaco Grand Prix,VET
+24155,1,2017,6,Monaco Grand Prix,HAM
+31596,1,2017,7,Canadian Grand Prix,VET
+23061,1,2017,7,Canadian Grand Prix,HAM
+23345,2,2017,7,Canadian Grand Prix,VET
+20418,1,2017,8,Azerbaijan Grand Prix,HAM
+20059,1,2017,8,Azerbaijan Grand Prix,VET
+15234,2,2017,8,Azerbaijan Grand Prix,HAM
+15174,2,2017,8,Azerbaijan Grand Prix,VET
+1310768,3,2017,8,Azerbaijan Grand Prix,HAM
+1310808,3,2017,8,Azerbaijan Grand Prix,VET
+27025,4,2017,8,Azerbaijan Grand Prix,HAM
+29317,4,2017,8,Azerbaijan Grand Prix,VET
+20761,1,2017,9,Austrian Grand Prix,HAM
+21750,1,2017,9,Austrian Grand Prix,VET
+28363,1,2017,10,British Grand Prix,VET
+27733,1,2017,10,British Grand Prix,HAM
+35204,2,2017,10,British Grand Prix,VET
+21338,1,2017,11,Hungarian Grand Prix,HAM
+22317,1,2017,11,Hungarian Grand Prix,VET
+22037,1,2017,12,Belgian Grand Prix,HAM
+22443,1,2017,12,Belgian Grand Prix,VET
+22357,2,2017,12,Belgian Grand Prix,HAM
+25650,2,2017,12,Belgian Grand Prix,VET
+24307,1,2017,13,Italian Grand Prix,VET
+23725,1,2017,13,Italian Grand Prix,HAM
+30442,1,2017,14,Singapore Grand Prix,HAM
+24368,2,2017,14,Singapore Grand Prix,HAM
+24337,3,2017,14,Singapore Grand Prix,HAM
+28466,4,2017,14,Singapore Grand Prix,HAM
+23489,1,2017,15,Malaysian Grand Prix,HAM
+23695,1,2017,15,Malaysian Grand Prix,VET
+22724,1,2017,16,Japanese Grand Prix,HAM
+24300,1,2017,17,United States Grand Prix,VET
+23402,1,2017,17,United States Grand Prix,HAM
+23620,2,2017,17,United States Grand Prix,VET
+32037,1,2017,18,Mexican Grand Prix,VET
+29283,1,2017,18,Mexican Grand Prix,HAM
+23315,2,2017,18,Mexican Grand Prix,HAM
+22379,2,2017,18,Mexican Grand Prix,VET
+19097,1,2017,19,Brazilian Grand Prix,VET
+19377,1,2017,19,Brazilian Grand Prix,HAM
+17817,2,2017,19,Brazilian Grand Prix,VET
+19237,2,2017,19,Brazilian Grand Prix,HAM
+17842,3,2017,19,Brazilian Grand Prix,VET
+18725,3,2017,19,Brazilian Grand Prix,HAM
+22736,4,2017,19,Brazilian Grand Prix,VET
+23121,4,2017,19,Brazilian Grand Prix,HAM
+21221,1,2017,20,Abu Dhabi Grand Prix,VET
+21274,1,2017,20,Abu Dhabi Grand Prix,HAM
+21821,1,2018,1,Australian Grand Prix,HAM
+21787,1,2018,1,Australian Grand Prix,VET
+24524,1,2018,2,Bahrain Grand Prix,VET
+24302,1,2018,2,Bahrain Grand Prix,HAM
+22464,1,2018,3,Chinese Grand Prix,HAM
+23009,1,2018,3,Chinese Grand Prix,VET
+20377,1,2018,4,Azerbaijan Grand Prix,HAM
+20037,1,2018,4,Azerbaijan Grand Prix,VET
+20823,2,2018,4,Azerbaijan Grand Prix,VET
+21329,2,2018,4,Azerbaijan Grand Prix,HAM
+22054,1,2018,5,Spanish Grand Prix,VET
+22085,1,2018,5,Spanish Grand Prix,HAM
+24273,2,2018,5,Spanish Grand Prix,VET
+23739,1,2018,6,Monaco Grand Prix,HAM
+23964,1,2018,6,Monaco Grand Prix,VET
+23335,1,2018,7,Canadian Grand Prix,HAM
+23529,1,2018,7,Canadian Grand Prix,VET
+32612,1,2018,8,French Grand Prix,VET
+24310,1,2018,8,French Grand Prix,HAM
+31029,2,2018,8,French Grand Prix,VET
+23912,1,2018,9,Austrian Grand Prix,VET
+21245,1,2018,9,Austrian Grand Prix,HAM
+20980,2,2018,9,Austrian Grand Prix,HAM
+28677,1,2018,10,British Grand Prix,VET
+28982,1,2018,10,British Grand Prix,HAM
+28174,2,2018,10,British Grand Prix,VET
+18657,1,2018,11,German Grand Prix,VET
+18978,1,2018,11,German Grand Prix,HAM
+21480,1,2018,12,Hungarian Grand Prix,HAM
+23111,1,2018,12,Hungarian Grand Prix,VET
+19582,1,2018,13,Belgian Grand Prix,VET
+19372,1,2018,13,Belgian Grand Prix,HAM
+22375,2,2018,13,Belgian Grand Prix,HAM
+22253,2,2018,13,Belgian Grand Prix,VET
+32219,1,2018,14,Italian Grand Prix,VET
+23728,1,2018,14,Italian Grand Prix,HAM
+24301,2,2018,14,Italian Grand Prix,VET
+28722,1,2018,15,Singapore Grand Prix,VET
+28946,1,2018,15,Singapore Grand Prix,HAM
+29798,1,2018,16,Russian Grand Prix,VET
+29551,1,2018,16,Russian Grand Prix,HAM
+22614,1,2018,17,Japanese Grand Prix,HAM
+22748,1,2018,17,Japanese Grand Prix,VET
+23693,1,2018,18,United States Grand Prix,HAM
+24449,1,2018,18,United States Grand Prix,VET
+23915,2,2018,18,United States Grand Prix,HAM
+22269,1,2018,19,Mexican Grand Prix,HAM
+22658,1,2018,19,Mexican Grand Prix,VET
+21777,2,2018,19,Mexican Grand Prix,VET
+22399,2,2018,19,Mexican Grand Prix,HAM
+22641,1,2018,20,Brazilian Grand Prix,HAM
+22551,1,2018,20,Brazilian Grand Prix,VET
+22683,2,2018,20,Brazilian Grand Prix,VET
+21283,1,2018,21,Abu Dhabi Grand Prix,HAM
+22630,1,2018,21,Abu Dhabi Grand Prix,VET
+21515,1,2019,1,Australian Grand Prix,HAM
+22014,1,2019,1,Australian Grand Prix,BOT
+24865,1,2019,2,Bahrain Grand Prix,BOT
+24255,1,2019,2,Bahrain Grand Prix,HAM
+24324,2,2019,2,Bahrain Grand Prix,HAM
+24433,2,2019,2,Bahrain Grand Prix,BOT
+22196,1,2019,3,Chinese Grand Prix,BOT
+22644,1,2019,3,Chinese Grand Prix,HAM
+23597,2,2019,3,Chinese Grand Prix,HAM
+24083,2,2019,3,Chinese Grand Prix,BOT
+20006,1,2019,4,Azerbaijan Grand Prix,BOT
+19993,1,2019,4,Azerbaijan Grand Prix,HAM
+22034,1,2019,5,Spanish Grand Prix,BOT
+22265,1,2019,5,Spanish Grand Prix,HAM
+22018,2,2019,5,Spanish Grand Prix,BOT
+22511,2,2019,5,Spanish Grand Prix,HAM
+24266,1,2019,6,Monaco Grand Prix,HAM
+25030,1,2019,6,Monaco Grand Prix,BOT
+24776,2,2019,6,Monaco Grand Prix,BOT
+23662,1,2019,7,Canadian Grand Prix,HAM
+23994,1,2019,7,Canadian Grand Prix,BOT
+23456,2,2019,7,Canadian Grand Prix,BOT
+30412,1,2019,8,French Grand Prix,BOT
+30186,1,2019,8,French Grand Prix,HAM
+22552,1,2019,9,Austrian Grand Prix,BOT
+30067,1,2019,9,Austrian Grand Prix,HAM
+28493,1,2019,10,British Grand Prix,BOT
+28905,1,2019,10,British Grand Prix,HAM
+28177,2,2019,10,British Grand Prix,BOT
+20203,1,2019,11,German Grand Prix,HAM
+22243,1,2019,11,German Grand Prix,BOT
+20498,2,2019,11,German Grand Prix,BOT
+22947,2,2019,11,German Grand Prix,HAM
+21142,3,2019,11,German Grand Prix,BOT
+21009,4,2019,11,German Grand Prix,BOT
+27069,4,2019,11,German Grand Prix,HAM
+20015,5,2019,11,German Grand Prix,HAM
+19610,6,2019,11,German Grand Prix,HAM
+33328,1,2019,12,Hungarian Grand Prix,BOT
+22880,1,2019,12,Hungarian Grand Prix,HAM
+21744,2,2019,12,Hungarian Grand Prix,BOT
+21390,2,2019,12,Hungarian Grand Prix,HAM
+23497,1,2019,13,Belgian Grand Prix,HAM
+22579,1,2019,13,Belgian Grand Prix,BOT
+23912,1,2019,14,Italian Grand Prix,HAM
+23700,1,2019,14,Italian Grand Prix,BOT
+23731,2,2019,14,Italian Grand Prix,HAM
+29234,1,2019,15,Singapore Grand Prix,BOT
+28930,1,2019,15,Singapore Grand Prix,HAM
+29751,1,2019,16,Russian Grand Prix,HAM
+29436,1,2019,16,Russian Grand Prix,BOT
+23000,1,2019,17,Japanese Grand Prix,BOT
+23582,1,2019,17,Japanese Grand Prix,HAM
+23157,2,2019,17,Japanese Grand Prix,BOT
+23591,2,2019,17,Japanese Grand Prix,HAM
+22269,1,2019,18,Mexican Grand Prix,HAM
+22179,1,2019,18,Mexican Grand Prix,BOT
+24151,1,2019,19,United States Grand Prix,BOT
+23943,1,2019,19,United States Grand Prix,HAM
+23819,2,2019,19,United States Grand Prix,BOT
+22882,1,2019,20,Brazilian Grand Prix,HAM
+23148,1,2019,20,Brazilian Grand Prix,BOT
+23210,2,2019,20,Brazilian Grand Prix,BOT
+23088,2,2019,20,Brazilian Grand Prix,HAM
+23060,3,2019,20,Brazilian Grand Prix,HAM
+22178,1,2019,21,Abu Dhabi Grand Prix,HAM
+21145,1,2019,21,Abu Dhabi Grand Prix,BOT
+21937,1,2020,1,Austrian Grand Prix,BOT
+21850,1,2020,1,Austrian Grand Prix,HAM
+16407,2,2020,1,Austrian Grand Prix,BOT
+16365,2,2020,1,Austrian Grand Prix,HAM
+21729,1,2020,2,Styrian Grand Prix,HAM
+21376,1,2020,2,Styrian Grand Prix,BOT
+21906,1,2020,3,Hungarian Grand Prix,BOT
+22320,1,2020,3,Hungarian Grand Prix,HAM
+21644,2,2020,3,Hungarian Grand Prix,BOT
+22264,2,2020,3,Hungarian Grand Prix,HAM
+21572,3,2020,3,Hungarian Grand Prix,BOT
+22426,3,2020,3,Hungarian Grand Prix,HAM
+28805,1,2020,4,British Grand Prix,HAM
+30571,1,2020,4,British Grand Prix,BOT
+33602,2,2020,4,British Grand Prix,BOT
+28408,1,2020,5,70th Anniversary Grand Prix,BOT
+28406,1,2020,5,70th Anniversary Grand Prix,HAM
+28188,2,2020,5,70th Anniversary Grand Prix,BOT
+29402,2,2020,5,70th Anniversary Grand Prix,HAM
+23377,1,2020,6,Spanish Grand Prix,HAM
+22310,1,2020,6,Spanish Grand Prix,BOT
+22143,2,2020,6,Spanish Grand Prix,BOT
+21853,2,2020,6,Spanish Grand Prix,HAM
+22607,3,2020,6,Spanish Grand Prix,BOT
+23298,1,2020,7,Belgian Grand Prix,HAM
+25548,1,2020,7,Belgian Grand Prix,BOT
+1516864,2,2020,8,Italian Grand Prix,HAM
+24410,1,2020,8,Italian Grand Prix,BOT
+24671,1,2020,8,Italian Grand Prix,HAM
+1436402,2,2020,9,Tuscan Grand Prix,BOT
+1436696,2,2020,9,Tuscan Grand Prix,HAM
+17560,1,2020,9,Tuscan Grand Prix,BOT
+17536,1,2020,9,Tuscan Grand Prix,HAM
+23111,3,2020,9,Tuscan Grand Prix,BOT
+22445,3,2020,9,Tuscan Grand Prix,HAM
+23199,4,2020,9,Tuscan Grand Prix,BOT
+22800,4,2020,9,Tuscan Grand Prix,HAM
+1300911,5,2020,9,Tuscan Grand Prix,HAM
+1302010,5,2020,9,Tuscan Grand Prix,BOT
+1522264,2,2020,8,Italian Grand Prix,BOT
+31643,3,2020,8,Italian Grand Prix,HAM
+41352,1,2020,10,Russian Grand Prix,HAM
+29750,1,2020,10,Russian Grand Prix,BOT
+22625,1,2020,11,Eifel Grand Prix,BOT
+23983,1,2020,11,Eifel Grand Prix,HAM
+23180,2,2020,11,Eifel Grand Prix,HAM
+27162,1,2020,12,Portuguese Grand Prix,HAM
+26512,1,2020,12,Portuguese Grand Prix,BOT
+29600,1,2020,13,Emilia Romagna Grand Prix,BOT
+30382,1,2020,13,Emilia Romagna Grand Prix,HAM
+30129,2,2020,13,Emilia Romagna Grand Prix,BOT
+30925,2,2020,13,Emilia Romagna Grand Prix,HAM
+23398,1,2020,14,Turkish Grand Prix,BOT
+23860,1,2020,14,Turkish Grand Prix,HAM
+22853,2,2020,14,Turkish Grand Prix,BOT
+1163979,1,2020,15,Bahrain Grand Prix,HAM
+1159205,1,2020,15,Bahrain Grand Prix,BOT
+24936,2,2020,15,Bahrain Grand Prix,BOT
+24061,2,2020,15,Bahrain Grand Prix,HAM
+24734,3,2020,15,Bahrain Grand Prix,BOT
+24345,3,2020,15,Bahrain Grand Prix,HAM
+24675,4,2020,15,Bahrain Grand Prix,BOT
+24552,1,2020,16,Sakhir Grand Prix,BOT
+52874,2,2020,16,Sakhir Grand Prix,BOT
+21587,1,2020,17,Abu Dhabi Grand Prix,BOT
+22406,1,2020,17,Abu Dhabi Grand Prix,HAM
+24839,1,2021,1,Bahrain Grand Prix,HAM
+24767,1,2021,1,Bahrain Grand Prix,VER
+24076,2,2021,1,Bahrain Grand Prix,HAM
+23848,2,2021,1,Bahrain Grand Prix,VER
+29809,1,2021,2,Emilia Romagna Grand Prix,VER
+32112,1,2021,2,Emilia Romagna Grand Prix,HAM
+38198,2,2021,2,Emilia Romagna Grand Prix,HAM
+1621361,2,2021,2,Emilia Romagna Grand Prix,VER
+1494731,3,2021,2,Emilia Romagna Grand Prix,HAM
+65870,4,2021,2,Emilia Romagna Grand Prix,HAM
+22426,1,2021,3,Portuguese Grand Prix,HAM
+22718,1,2021,3,Portuguese Grand Prix,VER
+22164,2,2021,3,Portuguese Grand Prix,HAM
+22104,2,2021,3,Portuguese Grand Prix,VER
+26743,3,2021,3,Portuguese Grand Prix,VER
+26907,3,2021,3,Portuguese Grand Prix,HAM
+26319,4,2021,3,Portuguese Grand Prix,VER
+23565,1,2021,4,Spanish Grand Prix,VER
+22220,1,2021,4,Spanish Grand Prix,HAM
+22078,2,2021,4,Spanish Grand Prix,HAM
+21592,2,2021,4,Spanish Grand Prix,VER
+23783,1,2021,5,Monaco Grand Prix,HAM
+23746,1,2021,5,Monaco Grand Prix,VER
+24244,2,2021,5,Monaco Grand Prix,HAM
+22470,1,2021,6,Azerbaijan Grand Prix,HAM
+19769,1,2021,6,Azerbaijan Grand Prix,VER
+15432,2,2021,6,Azerbaijan Grand Prix,HAM
+2000923,3,2021,6,Azerbaijan Grand Prix,HAM
+29803,1,2021,7,French Grand Prix,VER
+30263,1,2021,7,French Grand Prix,HAM
+30123,2,2021,7,French Grand Prix,VER
+21219,1,2021,8,Styrian Grand Prix,HAM
+20936,1,2021,8,Styrian Grand Prix,VER
+21640,2,2021,8,Styrian Grand Prix,HAM
+21005,1,2021,9,Austrian Grand Prix,HAM
+21090,1,2021,9,Austrian Grand Prix,VER
+21421,2,2021,9,Austrian Grand Prix,HAM
+21236,2,2021,9,Austrian Grand Prix,VER
+2048376,1,2021,10,British Grand Prix,HAM
+40266,2,2021,10,British Grand Prix,HAM
+22569,1,2021,11,Hungarian Grand Prix,VER
+1449259,1,2021,11,Hungarian Grand Prix,HAM
+1456349,2,2021,11,Hungarian Grand Prix,VER
+35245,3,2021,11,Hungarian Grand Prix,VER
+21731,2,2021,11,Hungarian Grand Prix,HAM
+21516,3,2021,11,Hungarian Grand Prix,HAM
+21047,4,2021,11,Hungarian Grand Prix,VER
+20848,5,2021,11,Hungarian Grand Prix,VER
+21208,4,2021,11,Hungarian Grand Prix,HAM
+19770,1,2021,13,Dutch Grand Prix,HAM
+19142,1,2021,13,Dutch Grand Prix,VER
+18868,2,2021,13,Dutch Grand Prix,HAM
+18578,2,2021,13,Dutch Grand Prix,VER
+19202,3,2021,13,Dutch Grand Prix,HAM
+32456,1,2021,14,Italian Grand Prix,VER
+25619,1,2021,14,Italian Grand Prix,HAM
+29878,1,2021,15,Russian Grand Prix,HAM
+29578,1,2021,15,Russian Grand Prix,VER
+31017,2,2021,15,Russian Grand Prix,VER
+30045,2,2021,15,Russian Grand Prix,HAM
+22442,1,2021,16,Turkish Grand Prix,VER
+22684,1,2021,16,Turkish Grand Prix,HAM
+23727,1,2021,17,United States Grand Prix,VER
+24481,1,2021,17,United States Grand Prix,HAM
+24052,2,2021,17,United States Grand Prix,VER
+23676,2,2021,17,United States Grand Prix,HAM
+22373,1,2021,18,Mexico City Grand Prix,HAM
+21908,1,2021,18,Mexico City Grand Prix,VER
+17916,1,2021,19,São Paulo Grand Prix,VER
+17910,1,2021,19,São Paulo Grand Prix,HAM
+17807,2,2021,19,São Paulo Grand Prix,VER
+18660,2,2021,19,São Paulo Grand Prix,HAM
+22690,3,2021,19,São Paulo Grand Prix,HAM
+22722,3,2021,19,São Paulo Grand Prix,VER
+22766,4,2021,19,São Paulo Grand Prix,VER
+22664,4,2021,19,São Paulo Grand Prix,HAM
+25300,1,2021,20,Qatar Grand Prix,VER
+25235,1,2021,20,Qatar Grand Prix,HAM
+25175,2,2021,20,Qatar Grand Prix,VER
+25381,2,2021,20,Qatar Grand Prix,HAM
+25465,3,2021,20,Qatar Grand Prix,VER
+20580,1,2021,21,Saudi Arabian Grand Prix,HAM
+996375,1,2021,21,Saudi Arabian Grand Prix,VER
+995856,2,2021,21,Saudi Arabian Grand Prix,HAM
+1087591,2,2021,21,Saudi Arabian Grand Prix,VER
+1086674,3,2021,21,Saudi Arabian Grand Prix,HAM
+21152,1,2021,22,Abu Dhabi Grand Prix,VER
+21595,1,2021,22,Abu Dhabi Grand Prix,HAM
+21871,2,2021,22,Abu Dhabi Grand Prix,VER
+21453,3,2021,22,Abu Dhabi Grand Prix,VER
+69022,3,2019,11,German Grand Prix,HAM
