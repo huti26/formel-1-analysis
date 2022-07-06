@@ -40,6 +40,21 @@
 - Placements
 - Pit Stops -> pro Jahr pro Fahrer Boxplot
 
+## Pit Stops
+
+Jahres mean, ohne outlier -> größer als 4 sec
+
+```
+   year       delta
+0  2017  381.148148
+1  2018  271.454545
+2  2019  -49.384615
+3  2020  -79.038462
+4  2021 -268.200000
+```
+
+- Outliers größer als 4 sec entfernt -> normaler pitstop 2.X sekunden -> pitstop mit frontwing wechsel in etwa 8 sek
+
 ## Notes
 
 - Bahrain 2020 GP 2 Mal -> wenn man nur nach circuit_name und nicht gp_name grouped falsche ergebnisse

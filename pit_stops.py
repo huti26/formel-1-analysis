@@ -17,5 +17,17 @@ def data_calculate_deltas(data):
     data.to_csv("hamilton-vs-bottas/pit_stops_deltas.csv", index=False)
 
 
-data = data_long_to_wide()
-data_calculate_deltas(data)
+def data_calculate_delta_mean():
+    data = pd.read_csv("hamilton-vs-bottas/pit_stops_deltas.csv")
+
+    # Filter out outliers
+    data = data[ (data["delta"] < 4000) & (data["delta"] > -4000)]
+
+    data = data.groupby(["year"])["delta"].mean().reset_index()
+
+    print(data)
+
+
+# data = data_long_to_wide()
+# data_calculate_deltas(data)
+data_calculate_delta_mean()
