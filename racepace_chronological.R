@@ -29,7 +29,7 @@ g <- ggplot(df) +
   scale_fill_manual(values = cbp1) +
   scale_x_continuous(breaks = seq(1, 21, 2)) +
   guides(
-    fill = FALSE
+    fill = "none"
   )
 
 

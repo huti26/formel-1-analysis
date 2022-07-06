@@ -45,7 +45,7 @@ g <- ggplot(df) +
   ) +
   facet_grid(rows = vars(year)) +
   labs(
-    title = "Pit Stop Deltas - Deltas larger than 4 seconds excluded",
+    title = "Pitstop Deltas - Deltas larger than 4 seconds excluded",
     subtitle = "Positive Delta (yellow) means Hamilton's Pitstop was faster",
     y = "Delta in Seconds",
     x = "Race",
@@ -55,7 +55,7 @@ g <- ggplot(df) +
   scale_x_continuous(breaks = seq(1, 22, 1)) +
   scale_y_continuous(breaks = seq(-4, 4, 2)) +
   guides(
-    fill = FALSE
+    fill = "none"
   )
 
 
