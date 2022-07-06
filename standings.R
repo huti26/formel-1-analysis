@@ -1,4 +1,5 @@
 library(ggplot2)
+library(dplyr)
 
 options(scipen = 100000)
 
@@ -10,7 +11,20 @@ cbp1 <- c("#009E73", "#F0E442")
 # df <- read.csv("hamilton-vs-bottas/standings-wide.csv")
 df <- read.csv("data/standings_ham_vs_bot.csv")
 
+# Add vline column with wdc decision race number
+df <- mutate(df,
+             wdc.decided.race = case_when(
+               year == 2017 ~ 18,
+               year == 2018 ~ 19,
+               year == 2019 ~ 19,
+               year == 2020 ~ 14,
+               year == 2021 ~ 22,
+             )
+)
+
+
 g <- ggplot(df) +
+  geom_vline(aes(xintercept = wdc.decided.race), linetype = "dashed", color = "#999999") +
   geom_line(aes(y = points, x = round, group = code), size = 0.8) +
   geom_point(
     aes(y = points, x = round, fill = code),

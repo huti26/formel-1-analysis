@@ -1,94 +1,94 @@
 positionOrder,year,round,name,code
+1,2017,1,Australian Grand Prix,VET
 2,2017,1,Australian Grand Prix,HAM
-3,2017,1,Australian Grand Prix,BOT
 1,2017,2,Chinese Grand Prix,HAM
-6,2017,2,Chinese Grand Prix,BOT
+2,2017,2,Chinese Grand Prix,VET
+1,2017,3,Bahrain Grand Prix,VET
 2,2017,3,Bahrain Grand Prix,HAM
-3,2017,3,Bahrain Grand Prix,BOT
+2,2017,4,Russian Grand Prix,VET
 4,2017,4,Russian Grand Prix,HAM
-1,2017,4,Russian Grand Prix,BOT
 1,2017,5,Spanish Grand Prix,HAM
-17,2017,5,Spanish Grand Prix,BOT
+2,2017,5,Spanish Grand Prix,VET
+1,2017,6,Monaco Grand Prix,VET
 7,2017,6,Monaco Grand Prix,HAM
-4,2017,6,Monaco Grand Prix,BOT
 1,2017,7,Canadian Grand Prix,HAM
-2,2017,7,Canadian Grand Prix,BOT
+4,2017,7,Canadian Grand Prix,VET
+4,2017,8,Azerbaijan Grand Prix,VET
 5,2017,8,Azerbaijan Grand Prix,HAM
-2,2017,8,Azerbaijan Grand Prix,BOT
+2,2017,9,Austrian Grand Prix,VET
 4,2017,9,Austrian Grand Prix,HAM
-1,2017,9,Austrian Grand Prix,BOT
 1,2017,10,British Grand Prix,HAM
-2,2017,10,British Grand Prix,BOT
+7,2017,10,British Grand Prix,VET
+1,2017,11,Hungarian Grand Prix,VET
 4,2017,11,Hungarian Grand Prix,HAM
-3,2017,11,Hungarian Grand Prix,BOT
 1,2017,12,Belgian Grand Prix,HAM
-5,2017,12,Belgian Grand Prix,BOT
+2,2017,12,Belgian Grand Prix,VET
 1,2017,13,Italian Grand Prix,HAM
-2,2017,13,Italian Grand Prix,BOT
+3,2017,13,Italian Grand Prix,VET
 1,2017,14,Singapore Grand Prix,HAM
-3,2017,14,Singapore Grand Prix,BOT
+18,2017,14,Singapore Grand Prix,VET
 2,2017,15,Malaysian Grand Prix,HAM
-5,2017,15,Malaysian Grand Prix,BOT
+4,2017,15,Malaysian Grand Prix,VET
 1,2017,16,Japanese Grand Prix,HAM
-4,2017,16,Japanese Grand Prix,BOT
+19,2017,16,Japanese Grand Prix,VET
 1,2017,17,United States Grand Prix,HAM
-5,2017,17,United States Grand Prix,BOT
+2,2017,17,United States Grand Prix,VET
+4,2017,18,Mexican Grand Prix,VET
 9,2017,18,Mexican Grand Prix,HAM
-2,2017,18,Mexican Grand Prix,BOT
+1,2017,19,Brazilian Grand Prix,VET
 4,2017,19,Brazilian Grand Prix,HAM
-2,2017,19,Brazilian Grand Prix,BOT
 2,2017,20,Abu Dhabi Grand Prix,HAM
-1,2017,20,Abu Dhabi Grand Prix,BOT
+3,2017,20,Abu Dhabi Grand Prix,VET
+1,2018,1,Australian Grand Prix,VET
 2,2018,1,Australian Grand Prix,HAM
-8,2018,1,Australian Grand Prix,BOT
+1,2018,2,Bahrain Grand Prix,VET
 3,2018,2,Bahrain Grand Prix,HAM
-2,2018,2,Bahrain Grand Prix,BOT
 4,2018,3,Chinese Grand Prix,HAM
-2,2018,3,Chinese Grand Prix,BOT
+8,2018,3,Chinese Grand Prix,VET
 1,2018,4,Azerbaijan Grand Prix,HAM
-14,2018,4,Azerbaijan Grand Prix,BOT
+4,2018,4,Azerbaijan Grand Prix,VET
 1,2018,5,Spanish Grand Prix,HAM
-2,2018,5,Spanish Grand Prix,BOT
+4,2018,5,Spanish Grand Prix,VET
+2,2018,6,Monaco Grand Prix,VET
 3,2018,6,Monaco Grand Prix,HAM
-5,2018,6,Monaco Grand Prix,BOT
+1,2018,7,Canadian Grand Prix,VET
 5,2018,7,Canadian Grand Prix,HAM
-2,2018,7,Canadian Grand Prix,BOT
 1,2018,8,French Grand Prix,HAM
-7,2018,8,French Grand Prix,BOT
+5,2018,8,French Grand Prix,VET
+3,2018,9,Austrian Grand Prix,VET
 16,2018,9,Austrian Grand Prix,HAM
-19,2018,9,Austrian Grand Prix,BOT
+1,2018,10,British Grand Prix,VET
 2,2018,10,British Grand Prix,HAM
-4,2018,10,British Grand Prix,BOT
 1,2018,11,German Grand Prix,HAM
-2,2018,11,German Grand Prix,BOT
+18,2018,11,German Grand Prix,VET
 1,2018,12,Hungarian Grand Prix,HAM
-5,2018,12,Hungarian Grand Prix,BOT
+2,2018,12,Hungarian Grand Prix,VET
+1,2018,13,Belgian Grand Prix,VET
 2,2018,13,Belgian Grand Prix,HAM
-4,2018,13,Belgian Grand Prix,BOT
 1,2018,14,Italian Grand Prix,HAM
-3,2018,14,Italian Grand Prix,BOT
+4,2018,14,Italian Grand Prix,VET
 1,2018,15,Singapore Grand Prix,HAM
-4,2018,15,Singapore Grand Prix,BOT
+3,2018,15,Singapore Grand Prix,VET
 1,2018,16,Russian Grand Prix,HAM
-2,2018,16,Russian Grand Prix,BOT
+3,2018,16,Russian Grand Prix,VET
 1,2018,17,Japanese Grand Prix,HAM
-2,2018,17,Japanese Grand Prix,BOT
+6,2018,17,Japanese Grand Prix,VET
 3,2018,18,United States Grand Prix,HAM
-5,2018,18,United States Grand Prix,BOT
+4,2018,18,United States Grand Prix,VET
+2,2018,19,Mexican Grand Prix,VET
 4,2018,19,Mexican Grand Prix,HAM
-5,2018,19,Mexican Grand Prix,BOT
 1,2018,20,Brazilian Grand Prix,HAM
-5,2018,20,Brazilian Grand Prix,BOT
+6,2018,20,Brazilian Grand Prix,VET
 1,2018,21,Abu Dhabi Grand Prix,HAM
-5,2018,21,Abu Dhabi Grand Prix,BOT
-2,2019,1,Australian Grand Prix,HAM
+2,2018,21,Abu Dhabi Grand Prix,VET
 1,2019,1,Australian Grand Prix,BOT
+2,2019,1,Australian Grand Prix,HAM
 1,2019,2,Bahrain Grand Prix,HAM
 2,2019,2,Bahrain Grand Prix,BOT
 1,2019,3,Chinese Grand Prix,HAM
 2,2019,3,Chinese Grand Prix,BOT
-2,2019,4,Azerbaijan Grand Prix,HAM
 1,2019,4,Azerbaijan Grand Prix,BOT
+2,2019,4,Azerbaijan Grand Prix,HAM
 1,2019,5,Spanish Grand Prix,HAM
 2,2019,5,Spanish Grand Prix,BOT
 1,2019,6,Monaco Grand Prix,HAM
@@ -97,8 +97,8 @@ positionOrder,year,round,name,code
 4,2019,7,Canadian Grand Prix,BOT
 1,2019,8,French Grand Prix,HAM
 2,2019,8,French Grand Prix,BOT
-5,2019,9,Austrian Grand Prix,HAM
 3,2019,9,Austrian Grand Prix,BOT
+5,2019,9,Austrian Grand Prix,HAM
 1,2019,10,British Grand Prix,HAM
 2,2019,10,British Grand Prix,BOT
 9,2019,11,German Grand Prix,HAM
@@ -107,24 +107,24 @@ positionOrder,year,round,name,code
 8,2019,12,Hungarian Grand Prix,BOT
 2,2019,13,Belgian Grand Prix,HAM
 3,2019,13,Belgian Grand Prix,BOT
-3,2019,14,Italian Grand Prix,HAM
 2,2019,14,Italian Grand Prix,BOT
+3,2019,14,Italian Grand Prix,HAM
 4,2019,15,Singapore Grand Prix,HAM
 5,2019,15,Singapore Grand Prix,BOT
 1,2019,16,Russian Grand Prix,HAM
 2,2019,16,Russian Grand Prix,BOT
-3,2019,17,Japanese Grand Prix,HAM
 1,2019,17,Japanese Grand Prix,BOT
+3,2019,17,Japanese Grand Prix,HAM
 1,2019,18,Mexican Grand Prix,HAM
 3,2019,18,Mexican Grand Prix,BOT
-2,2019,19,United States Grand Prix,HAM
+1,2020,1,Austrian Grand Prix,BOT
 1,2019,19,United States Grand Prix,BOT
+2,2019,19,United States Grand Prix,HAM
 7,2019,20,Brazilian Grand Prix,HAM
 20,2019,20,Brazilian Grand Prix,BOT
 1,2019,21,Abu Dhabi Grand Prix,HAM
 4,2019,21,Abu Dhabi Grand Prix,BOT
 4,2020,1,Austrian Grand Prix,HAM
-1,2020,1,Austrian Grand Prix,BOT
 1,2020,2,Styrian Grand Prix,HAM
 2,2020,2,Styrian Grand Prix,BOT
 1,2020,3,Hungarian Grand Prix,HAM
@@ -137,12 +137,12 @@ positionOrder,year,round,name,code
 3,2020,6,Spanish Grand Prix,BOT
 1,2020,7,Belgian Grand Prix,HAM
 2,2020,7,Belgian Grand Prix,BOT
-7,2020,8,Italian Grand Prix,HAM
 5,2020,8,Italian Grand Prix,BOT
+7,2020,8,Italian Grand Prix,HAM
 1,2020,9,Tuscan Grand Prix,HAM
 2,2020,9,Tuscan Grand Prix,BOT
-3,2020,10,Russian Grand Prix,HAM
 1,2020,10,Russian Grand Prix,BOT
+3,2020,10,Russian Grand Prix,HAM
 1,2020,11,Eifel Grand Prix,HAM
 19,2020,11,Eifel Grand Prix,BOT
 1,2020,12,Portuguese Grand Prix,HAM
@@ -154,49 +154,49 @@ positionOrder,year,round,name,code
 1,2020,15,Bahrain Grand Prix,HAM
 8,2020,15,Bahrain Grand Prix,BOT
 8,2020,16,Sakhir Grand Prix,BOT
-3,2020,17,Abu Dhabi Grand Prix,HAM
 2,2020,17,Abu Dhabi Grand Prix,BOT
-2,2021,2,Emilia Romagna Grand Prix,HAM
-18,2021,2,Emilia Romagna Grand Prix,BOT
+3,2020,17,Abu Dhabi Grand Prix,HAM
 1,2021,1,Bahrain Grand Prix,HAM
-3,2021,1,Bahrain Grand Prix,BOT
-1,2021,20,Qatar Grand Prix,HAM
-20,2021,20,Qatar Grand Prix,BOT
+2,2021,1,Bahrain Grand Prix,VER
+1,2021,2,Emilia Romagna Grand Prix,VER
+2,2021,2,Emilia Romagna Grand Prix,HAM
 1,2021,3,Portuguese Grand Prix,HAM
-3,2021,3,Portuguese Grand Prix,BOT
+2,2021,3,Portuguese Grand Prix,VER
 1,2021,4,Spanish Grand Prix,HAM
-3,2021,4,Spanish Grand Prix,BOT
+2,2021,4,Spanish Grand Prix,VER
+1,2021,5,Monaco Grand Prix,VER
 7,2021,5,Monaco Grand Prix,HAM
-19,2021,5,Monaco Grand Prix,BOT
 15,2021,6,Azerbaijan Grand Prix,HAM
-12,2021,6,Azerbaijan Grand Prix,BOT
-2,2021,8,Styrian Grand Prix,HAM
-3,2021,8,Styrian Grand Prix,BOT
+18,2021,6,Azerbaijan Grand Prix,VER
+1,2021,7,French Grand Prix,VER
 2,2021,7,French Grand Prix,HAM
-4,2021,7,French Grand Prix,BOT
+1,2021,8,Styrian Grand Prix,VER
+2,2021,8,Styrian Grand Prix,HAM
+1,2021,9,Austrian Grand Prix,VER
 4,2021,9,Austrian Grand Prix,HAM
-2,2021,9,Austrian Grand Prix,BOT
 1,2021,10,British Grand Prix,HAM
-3,2021,10,British Grand Prix,BOT
+20,2021,10,British Grand Prix,VER
 2,2021,11,Hungarian Grand Prix,HAM
-16,2021,11,Hungarian Grand Prix,BOT
+9,2021,11,Hungarian Grand Prix,VER
+1,2021,12,Belgian Grand Prix,VER
 3,2021,12,Belgian Grand Prix,HAM
-12,2021,12,Belgian Grand Prix,BOT
+1,2021,13,Dutch Grand Prix,VER
 2,2021,13,Dutch Grand Prix,HAM
-3,2021,13,Dutch Grand Prix,BOT
 17,2021,14,Italian Grand Prix,HAM
-3,2021,14,Italian Grand Prix,BOT
+18,2021,14,Italian Grand Prix,VER
 1,2021,15,Russian Grand Prix,HAM
-5,2021,15,Russian Grand Prix,BOT
+2,2021,15,Russian Grand Prix,VER
+2,2021,16,Turkish Grand Prix,VER
 5,2021,16,Turkish Grand Prix,HAM
-1,2021,16,Turkish Grand Prix,BOT
+1,2021,17,United States Grand Prix,VER
 2,2021,17,United States Grand Prix,HAM
-6,2021,17,United States Grand Prix,BOT
+1,2021,18,Mexico City Grand Prix,VER
 2,2021,18,Mexico City Grand Prix,HAM
-15,2021,18,Mexico City Grand Prix,BOT
 1,2021,19,São Paulo Grand Prix,HAM
-3,2021,19,São Paulo Grand Prix,BOT
+2,2021,19,São Paulo Grand Prix,VER
+1,2021,20,Qatar Grand Prix,HAM
+2,2021,20,Qatar Grand Prix,VER
 1,2021,21,Saudi Arabian Grand Prix,HAM
-3,2021,21,Saudi Arabian Grand Prix,BOT
+2,2021,21,Saudi Arabian Grand Prix,VER
+1,2021,22,Abu Dhabi Grand Prix,VER
 2,2021,22,Abu Dhabi Grand Prix,HAM
-6,2021,22,Abu Dhabi Grand Prix,BOT

@@ -38,6 +38,7 @@
 - ggsave als pdf sinnvoll? damit man source anklicken kann?
 
 - Placements
+- Pit Stops -> pro Jahr pro Fahrer Boxplot
 
 ## Notes
 
