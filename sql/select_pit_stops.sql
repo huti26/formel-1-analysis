@@ -1,5 +1,5 @@
 SELECT 
-duration, stop, year, round, races.name, drivers.code
+milliseconds, stop, year, round, races.name, drivers.code
 FROM
 pit_stops, races, drivers
 WHERE

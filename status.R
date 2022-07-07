@@ -30,4 +30,4 @@ g <- ggplot(df) +
 
 print(g)
 
-ggsave("plots/ham-bot-dnfs.png", width = 8.37, height = 10.0, dpi = 300)
+ggsave("plots/ham-bot-dnfs.png", width = 8.37, height = 6.0, dpi = 300)

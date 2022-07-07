@@ -35,7 +35,7 @@ g <- ggplot(df) +
 
 print(g)
 
-# ggsave("plots/racepace-mean-ham-bot-delta-per-track.png", width = 8.37, height = 10.0, dpi = 300)
+ggsave("plots/racepace-mean-ham-bot-delta-per-track.png", width = 8.37, height = 8.0, dpi = 300)
 
 
 # Without DNFs
@@ -64,7 +64,7 @@ g2 <- ggplot(df2) +
 
 print(g2)
 
-# ggsave("plots/racepace-mean-ham-bot-delta-per-track-without-dnfs.png", width = 8.37, height = 10.0, dpi = 300)
+ggsave("plots/racepace-mean-ham-bot-delta-per-track-without-dnfs.png", width = 8.37, height = 8.0, dpi = 300)
 
 # Remove SPA 2021 (Race 12)
 df3 <- read.csv("hamilton-vs-bottas/racepace-means-wide-with-deltas-without-dnfs-without-spa-2021.csv")
@@ -93,5 +93,5 @@ g3 <- ggplot(df3) +
 
 print(g3)
 
-ggsave("plots/racepace-mean-ham-bot-delta-per-track-without-dnfs-without-spa-2021.png", width = 8.37, height = 10.0, dpi = 300)
+ggsave("plots/racepace-mean-ham-bot-delta-per-track-without-dnfs-without-spa-2021.png", width = 8.37, height = 8.0, dpi = 300)
 

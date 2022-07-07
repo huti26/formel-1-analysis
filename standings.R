@@ -43,4 +43,4 @@ g <- ggplot(df) +
 
 print(g)
 
-ggsave("plots/ham-bot-standings.png", width = 8.37, height = 10.0, dpi = 300)
+ggsave("plots/ham-bot-standings.png", width = 8.37, height = 8.0, dpi = 300)

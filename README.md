@@ -126,6 +126,15 @@ Jahres mean, ohne outlier -> größer als 4 sec
     - TODO: Chequered Flag für wann Season zu Ende war
   - Besonders starkes Race nach Nummer?
 
+```
+races_year,delta
+2017,176.06963491667412
+2018,383.452001837367
+2019,-24.438933791829704
+2020,374.66158184588494
+2021,910.9274404953931
+```
+
 ## Rennen alphabetisch
 
 - 70th Anniversary GP = Silverstone

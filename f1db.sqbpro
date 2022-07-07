@@ -1,96 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/Hutan/GitHub/formel-1-analysis/f1db.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="2210"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,14:mainlap_times_flat"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="circuits" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="61"/><column index="2" value="97"/><column index="3" value="229"/><column index="4" value="135"/><column index="5" value="80"/><column index="6" value="58"/><column index="7" value="65"/><column index="8" value="40"/><column index="9" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="driver_standings" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="133"/><column index="2" value="59"/><column index="3" value="69"/><column index="4" value="57"/><column index="5" value="68"/><column index="6" value="96"/><column index="7" value="46"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="lap_times" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="50"/><column index="2" value="60"/><column index="3" value="40"/><column index="4" value="59"/><column index="5" value="65"/><column index="6" value="84"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="lap_times_flat" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="3" mode="0"/></sort><column_widths><column index="1" value="50"/><column index="2" value="60"/><column index="3" value="58"/><column index="4" value="59"/><column index="5" value="84"/><column index="6" value="82"/><column index="7" value="90"/><column index="8" value="127"/><column index="9" value="82"/><column index="10" value="86"/><column index="11" value="117"/><column index="12" value="111"/><column index="13" value="79"/><column index="14" value="124"/><column index="15" value="173"/><column index="16" value="107"/></column_widths><filter_values><column index="6" value="2021"/><column index="7" value="18"/><column index="10" value="bot"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="races" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="50"/><column index="2" value="40"/><column index="3" value="46"/><column index="4" value="61"/><column index="5" value="179"/><column index="6" value="59"/><column index="7" value="59"/><column index="8" value="300"/></column_widths><filter_values><column index="2" value="2021"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="results" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="59"/><column index="2" value="50"/><column index="3" value="60"/><column index="4" value="98"/><column index="5" value="57"/><column index="6" value="40"/><column index="7" value="59"/><column index="8" value="87"/><column index="9" value="96"/><column index="10" value="48"/><column index="11" value="40"/><column index="12" value="77"/><column index="13" value="84"/><column index="14" value="78"/><column index="15" value="40"/><column index="16" value="107"/><column index="17" value="118"/><column index="18" value="63"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="seasons" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="sprint_results" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="59"/><column index="2" value="50"/><column index="3" value="60"/><column index="4" value="98"/><column index="5" value="57"/><column index="6" value="40"/><column index="7" value="59"/><column index="8" value="87"/><column index="9" value="96"/><column index="10" value="48"/><column index="11" value="40"/><column index="12" value="66"/><column index="13" value="84"/><column index="14" value="78"/><column index="15" value="107"/><column index="16" value="63"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="status" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="63"/><column index="2" value="107"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="lap_times_flat.sql">INSERT INTO lap_times_flat 
-
-	SELECT 
-	lap_times.raceId, lap_times.driverId, lap_times.lap, lap_times.position, lap_times.milliseconds, 
-	races.year, races.round, races.name, races.date,
-	drivers.code, drivers.forename, drivers.surname, drivers.dob, drivers.nationality,
-	circuits.name, circuits.country
-	FROM
-	lap_times, races, drivers, circuits
-	WHERE
-	lap_times.driverId = drivers.driverId
-	AND
-	lap_times.raceId = races.raceId
-	AND
-	races.circuitId = circuits.circuitId
-
-
-</sql><sql name="select_ham_bot_join.sql">SELECT 
-lap_times.raceId, lap_times.driverId, lap_times.lap, lap_times.position, lap_times.milliseconds, 
-races.year, races.round, races.name, races.date,
-drivers.code, drivers.forename, drivers.surname, drivers.dob, drivers.nationality,
-circuits.name, circuits.country
-FROM
-lap_times, races, drivers, circuits
-WHERE
-(lap_times.driverId = 1 OR lap_times.driverId = 822)
-AND
-lap_times.driverId = drivers.driverId
-AND
-lap_times.raceId = races.raceId
-AND
-races.circuitId = circuits.circuitId
-</sql><sql name="select_ham_bot_flat.sql">SELECT *
-FROM lap_times_flat
-WHERE
-(driverId = 1 OR driverId = 822)
-AND
-(races_year &gt;= 2017 AND races_year &lt;= 2021)
-</sql><sql name="select_ham_bot_dnfs.sql">SELECT *
-FROM
-results, races
-WHERE
-results.raceId = races.raceId
-AND
-(results.driverId = 1 OR results.driverId = 822)
-AND
-races.year &gt;= 2017 AND races.year &lt;= 2021
-AND
-results.statusId != 1</sql><sql name="select_ham_bot_flat_without_dnfs.sql">SELECT 
-lap_times.raceId, lap_times.driverId, lap_times.lap, lap_times.position, lap_times.milliseconds, 
-races.year, races.round, races.name, races.date,
-drivers.code, drivers.forename, drivers.surname, drivers.dob, drivers.nationality,
-circuits.name, circuits.country,
-results.statusId
-FROM
-lap_times, races, drivers, circuits, results
-WHERE
-(lap_times.driverId = 1 OR lap_times.driverId = 822)
-AND
-lap_times.driverId = drivers.driverId
-AND
-lap_times.raceId = races.raceId
-AND
-races.circuitId = circuits.circuitId
-AND
-results.raceId = lap_times.raceId
-AND
-results.driverId = lap_times.driverId
-AND
-(results.statusId = 1 OR (results.statusId &gt;= 11 AND results.statusId &lt;= 19))
-AND
-(year &gt;= 2017 AND year &lt;= 2021)</sql><sql name="select_ham_bot_standings.sql">SELECT 
-points, year, round, code
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/Hutan/GitHub/formel-1-analysis/f1db.db" readonly="0" foreign_keys="0" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="0" synchronous="1"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="2225"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,8:maincircuits"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="circuits" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="61"/><column index="2" value="97"/><column index="3" value="229"/><column index="4" value="135"/><column index="5" value="80"/><column index="6" value="58"/><column index="7" value="65"/><column index="8" value="40"/><column index="9" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="select_ham_bot_flat_without_dnfs.sql">SELECT 
+lap_times.raceId, lap_times.driverId, lap_times.lap, lap_times.position, lap_times.milliseconds, 
+races.year, races.round, races.name, races.date,
+drivers.code, drivers.forename, drivers.surname, drivers.dob, drivers.nationality,
+circuits.name, circuits.country,
+results.statusId
 FROM
-driver_standings, races, drivers
+lap_times, races, drivers, circuits, results
 WHERE
-driver_standings.raceId = races.raceId
+(lap_times.driverId = 1 OR lap_times.driverId = 822)
 AND
-driver_standings.driverId = drivers.driverId
+results.statusId = 1
 AND
-(races.year &gt;= 2017 AND races.year &lt;= 2021)
+(year &gt;= 2017 AND year &lt;= 2021)
 AND
-(drivers.driverId = 1 OR drivers.driverId = 822)
-</sql><sql name="select_ham_bot_status_per_race.sql">SELECT 
-statusId, year, round, races.name, drivers.code
-FROM
-results, races, drivers
-WHERE
-results.raceId = races.raceId
+lap_times.driverId = drivers.driverId
 AND
-results.driverId = drivers.driverId
+lap_times.raceId = races.raceId
 AND
-(results.driverId = 1 OR results.driverId = 822)
+races.circuitId = circuits.circuitId
 AND
-races.year &gt;= 2017 AND races.year &lt;= 2021
-</sql><current_tab id="4"/></tab_sql></sqlb_project>
+results.raceId = lap_times.raceId
+AND
+results.driverId = lap_times.driverId
+</sql><current_tab id="0"/></tab_sql></sqlb_project>

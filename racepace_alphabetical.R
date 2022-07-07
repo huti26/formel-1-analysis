@@ -25,7 +25,7 @@ g <- ggplot(df) +
     title = "Hamilton vs Bottas - Mean Racepace Delta per Track",
     subtitle = "Positive Delta (yellow) means Hamilton was faster",
     y = "Delta in Seconds",
-    x = "Race"
+    x = ""
   ) +
   scale_fill_manual(values = cbp1) +
   scale_x_discrete(guide = guide_axis(angle = 90)) +
@@ -37,4 +37,4 @@ g <- ggplot(df) +
 
 print(g)
 
-ggsave("plots/racepace-mean-ham-bot-delta-per-track-alphabetical.png", width = 8.37, height = 10.0, dpi = 300)
+ggsave("plots/racepace-mean-ham-bot-delta-per-track-alphabetical.png", width = 8.37, height = 8.0, dpi = 300)

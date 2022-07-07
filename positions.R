@@ -32,7 +32,7 @@ g <- ggplot(df) +
   ) +
   facet_grid(rows = vars(year)) +
   labs(
-    title = "Hamilton vs Bottas - Positions at the end of each Race",
+    title = "Formula 1 Championship Contenders - Positions at the end of each Race",
     y = "Position",
     x = "Race",
     fill = ""
@@ -44,4 +44,4 @@ g <- ggplot(df) +
 
 print(g)
 
-ggsave("plots/ham-bot-positions.png", width = 8.37, height = 14.0, dpi = 300)
+ggsave("plots/ham-bot-positions.png", width = 8.37, height = 10.0, dpi = 300)

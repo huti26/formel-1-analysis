@@ -9,6 +9,10 @@ lap_times, races, drivers, circuits, results
 WHERE
 (lap_times.driverId = 1 OR lap_times.driverId = 822)
 AND
+results.statusId = 1
+AND
+(year >= 2017 AND year <= 2021)
+AND
 lap_times.driverId = drivers.driverId
 AND
 lap_times.raceId = races.raceId
@@ -18,7 +22,3 @@ AND
 results.raceId = lap_times.raceId
 AND
 results.driverId = lap_times.driverId
-AND
-results.statusId = 1
-AND
-(year >= 2017 AND year <= 2021)
