@@ -50,8 +50,8 @@ g <- ggplot(df) +
   ) +
   facet_grid(rows = vars(year)) +
   labs(
-    title = "Pitstop Delta between Championship Contenders",
-    subtitle = "Positive Delta (yellow) means Hamilton's Pitstop was faster - Deltas larger than 4 seconds excluded",
+    title = "Pitstop Delta between Championship Contenders - Deltas larger than 4 seconds excluded",
+    subtitle = "Positive Delta (yellow) means Hamilton's Pitstop was faster",
     y = "Delta in Seconds",
     x = "Race",
     fill = ""
