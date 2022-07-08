@@ -18,9 +18,9 @@ g <- ggplot(df) +
   facet_grid(rows = vars(year)) +
   labs(
     title = "Hamilton vs Bottas - DNFs over each season",
-    y = "Did Not Finish the Race",
+    y = "",
     x = "Race",
-    fill = ""
+    fill = "DNF"
   ) +
   scale_fill_manual(values = cbp1) +
   scale_x_continuous(breaks = seq(1, 21, 2)) +
@@ -30,4 +30,4 @@ g <- ggplot(df) +
 
 print(g)
 
-ggsave("plots/ham-bot-dnfs.png", width = 8.37, height = 6.0, dpi = 300)
+ggsave("plots/ham-bot-dnfs.png", width = 8.37, height = 4.0, dpi = 300)

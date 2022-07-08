@@ -1,4 +1,5 @@
 library(ggplot2)
+# library(bbplot)
 
 options(scipen = 100000)
 
@@ -38,3 +39,11 @@ g <- ggplot(df) +
 print(g)
 
 ggsave("plots/racepace-mean-ham-bot-delta-per-track-alphabetical.png", width = 8.37, height = 8.0, dpi = 300)
+
+# finalise_plot(plot_name = g,
+#               source = "Source: Gapminder",
+#               save_filepath = "filename_that_my_plot_should_be_saved_to.png",
+#               width_pixels = 640,
+#               height_pixels = 450,
+#               logo_image_path = "hutan-logo.png")
+

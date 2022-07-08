@@ -37,7 +37,7 @@ g <- ggplot(df) +
 
 print(g)
 
-ggsave("plots/pit-stop-deltas-with-outliers.png", width = 8.37, height = 10.0, dpi = 300)
+# ggsave("plots/pit-stop-deltas-with-outliers.png", width = 8.37, height = 10.0, dpi = 300)
 
 # Remove big outliers from 2021
 df <- subset(df, df$delta.secs < 4 & df$delta.secs > -4)
@@ -46,7 +46,8 @@ g <- ggplot(df) +
   geom_hline(aes(yintercept = 0), linetype = "dashed", color = "#999999") +
   geom_bar(
     aes(y = delta.secs, x = round, fill = ham.faster),
-    stat = "identity", position = "dodge"
+    size = 0.7, alpha = 1, color = "black",
+    stat = "identity", position = "dodge2"
   ) +
   facet_grid(rows = vars(year)) +
   labs(
@@ -61,7 +62,7 @@ g <- ggplot(df) +
   scale_y_continuous(breaks = seq(-2, 2, 2), limits = c(-4, 4)) +
   guides(
     fill = "none"
-  )
+  ) 
 
 
 print(g)
