@@ -33,12 +33,17 @@ g <- ggplot(df) +
   scale_y_continuous(limits = c(-1.5, 1.5)) +
   guides(
     fill = "none"
+  )  +
+  theme(
+    text = element_text(size = 14),
+    plot.margin = margin(t = 1, r = 2, b = 0.5, l = 1, unit = "cm"),
+    axis.text.x = element_text(size = 10)
   )
 
 
 print(g)
 
-ggsave("plots/racepace-mean-ham-bot-delta-per-track-alphabetical.png", width = 8.37, height = 8.0, dpi = 300)
+ggsave("plots/racepace-mean-ham-bot-delta-per-track-alphabetical.png", width = 9.37, height = 8.0, dpi = 300)
 
 # finalise_plot(plot_name = g,
 #               source = "Source: Gapminder",

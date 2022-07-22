@@ -32,14 +32,20 @@ g <- ggplot(df) +
   ) +
   facet_grid(rows = vars(year)) +
   labs(
-    title = "Formula 1 Championship Contenders - Positions at the end of each Race",
+    title = "Formula 1 Championship Contenders",
+    subtitle = "Positions at the end of each Race",
     y = "Position",
     x = "Race",
     fill = ""
   ) +
   scale_fill_manual(values = cbp1) +
   scale_x_continuous(breaks = seq(1, 21, 2)) +
-  scale_y_continuous(breaks = seq(1, 20, 2), trans = "reverse")
+  scale_y_continuous(breaks = seq(1, 20, 2), trans = "reverse") +
+  theme(
+    text = element_text(size = 14),
+    plot.margin = margin(t = 0.5, r = 1, b = 0.5, l = 1, unit = "cm"),
+    axis.text.y = element_text(size = 10)
+  )
 
 
 print(g)

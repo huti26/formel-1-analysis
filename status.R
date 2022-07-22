@@ -25,7 +25,11 @@ g <- ggplot(df) +
   scale_fill_manual(values = cbp1) +
   scale_x_continuous(breaks = seq(1, 21, 2)) +
   scale_y_discrete(limits = "True", labels = "") +
-  theme(axis.ticks.y = element_blank())
+  theme(
+    axis.ticks.y = element_blank(),
+    text = element_text(size = 14),
+    plot.margin = margin(t = 1, r = 1, b = 0.5, l = 1, unit = "cm")
+    )
 
 
 print(g)

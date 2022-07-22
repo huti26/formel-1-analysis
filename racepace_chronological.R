@@ -30,7 +30,11 @@ g <- ggplot(df) +
   scale_x_continuous(breaks = seq(1, 21, 2)) +
   guides(
     fill = "none"
-  )
+  ) +
+  theme(
+    text = element_text(size = 14),
+    plot.margin = margin(t = 1, r = 2, b = 1, l = 1, unit = "cm")
+    )
 
 
 print(g)
@@ -51,16 +55,21 @@ g2 <- ggplot(df2) +
   ) +
   facet_grid(rows = vars(year)) +
   labs(
-    title = "Hamilton vs Bottas - Mean Racepace Delta per Track - DNFs Removed",
+    title = "Hamilton vs Bottas - Mean Racepace Delta per Track",
     subtitle = "Positive Delta (yellow) means Hamilton was faster",
     y = "Delta in Seconds",
-    x = "Race"
+    x = "Race",
+    caption = "DNFs Removed"
   ) +
   scale_fill_manual(values = cbp1) +
   scale_x_continuous(breaks = seq(1, 21, 2)) +
   guides(
     fill = FALSE
-  )
+  ) +
+  theme(
+    text = element_text(size = 14),
+    plot.margin = margin(t = 1, r = 2, b = 1, l = 1, unit = "cm")
+    )
 
 print(g2)
 
@@ -79,19 +88,26 @@ g3 <- ggplot(df3) +
   ) +
   facet_grid(rows = vars(year)) +
   labs(
-    title = "Hamilton vs Bottas - Mean Racepace Delta per Track - DNFs & Spa 2021 Removed",
+    title = "Hamilton vs Bottas - Mean Racepace Delta per Track",
     subtitle = "Positive Delta (yellow) means Hamilton was faster",
     y = "Delta in Seconds",
-    x = "Race"
+    x = "Race",
+    caption = "DNFs & Spa 2021 Removed"
   ) +
   scale_fill_manual(values = cbp1) +
   scale_x_continuous(breaks = seq(1, 21, 2)) +
   scale_y_continuous(limits = c(-3, 3)) +
   guides(
     fill = FALSE
-  )
+  ) +
+  theme(
+    text = element_text(size = 14),
+    plot.margin = margin(t = 1, r = 2, b = 0.5, l = 1, unit = "cm")
+    )
 
 print(g3)
 
 ggsave("plots/racepace-mean-ham-bot-delta-per-track-without-dnfs-without-spa-2021.png", width = 8.37, height = 8.0, dpi = 300)
+
+
 

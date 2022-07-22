@@ -51,18 +51,23 @@ g <- ggplot(df) +
   ) +
   facet_grid(rows = vars(year)) +
   labs(
-    title = "Pitstop Delta between Championship Contenders - Deltas larger than 4 seconds excluded",
+    title = "Pitstop Delta between Championship Contenders",
     subtitle = "Positive Delta (yellow) means Hamilton's Pitstop was faster",
     y = "Delta in Seconds",
     x = "Race",
-    fill = ""
+    fill = "",
+    caption = "Deltas larger than 4 seconds excluded"
   ) +
   scale_fill_manual(values = c("#999999", "#F0E442")) +
   scale_x_continuous(breaks = seq(1, 22, 1)) +
   scale_y_continuous(breaks = seq(-2, 2, 2), limits = c(-4, 4)) +
   guides(
     fill = "none"
-  ) 
+  ) +
+  theme(
+    text = element_text(size = 14),
+    plot.margin = margin(t = 0.5, r = 1, b = 0.5, l = 1, unit = "cm")
+  )
 
 
 print(g)

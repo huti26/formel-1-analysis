@@ -38,7 +38,11 @@ g <- ggplot(df) +
     fill = ""
   ) +
   scale_fill_manual(values = cbp1) +
-  scale_x_continuous(breaks = seq(1, 21, 2))
+  scale_x_continuous(breaks = seq(1, 21, 2)) +
+  theme(
+    text = element_text(size = 14),
+    plot.margin = margin(t = 1, r = 1, b = 0.5, l = 1, unit = "cm")
+  )
 
 
 print(g)
